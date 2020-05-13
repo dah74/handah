@@ -4,7 +4,7 @@ http://livecdnh3.tvanywhere.ae/hls/jadeed/index.m3u8?fluxustv.m3u8
 #EXTINF:0 0 tvg-id="mtv-rus" tvg-name="MTV Lebanon ARB" tvg-logo="https://i.imgur.com/qavKIQB.png" group-title="",MTV
 http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.instaleb.me/sites/default/files/field/image/lbci.jpg" group-title="",LBCI
-#http://matrix.matrix-ott.tv:8000/PKwf7L2900/o66GWgudWH/12822
+http://streamxcode.ddns.net:25461/load/desiboyz150/6447.m3u8
 #EXTINF:0 tvg-id="" tvg-name="OTV Lebanon ARB" tvg-logo="https://i.imgur.com/BZAgw1G.png" group-title="",OTV
 http://youness-export.com/tv/otv
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/f07QCXk.png" group-title="",AL Mayadeen
