@@ -7,8 +7,14 @@ http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/index.m3u8
 http://streamxcode.ddns.net:25461/load/desiboyz150/6447.m3u8
 #EXTINF:0 tvg-id="" tvg-name="OTV Lebanon ARB" tvg-logo="https://i.imgur.com/BZAgw1G.png" group-title="",OTV
 http://youness-export.com/tv/otv
+#EXTINF:0 tvg-name="" tvg-logo="https://i.imgur.com/26aZW2I.png" group-title="",Abu Dhabi
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+#EXTINF:0 tvg-name="" tvg-logo="https://i.imgur.com/YFnoPGU.png" group-title="",Abu Dhabi Drama
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/l2nopWc.png" group-title="",MBC Drama
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/f07QCXk.png" group-title="",AL Mayadeen
-http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8?v=
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Rusiya Al Yaum ARB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="",RT
 https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
 #EXTINF:0 tvg-id="" tvg-name="DW Arabia ARB" tvg-logo="https://i.imgur.com/LGjZIWL.png" group-title="",DW
@@ -25,9 +31,12 @@ http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8?fluxustv.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="mbc.net.E" tvg-logo="https://i.imgur.com/X4iT4EU.png" group-title="",MBC Max
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-name="" tvg-logo="https://alfajertv.com/style/atyaf/assets/images/logo.png" group-title="",Al Fajer 2
+#http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Star Movies ARB" tvg-logo="http://upload.wikimedia.org/wikipedia/id/f/f1/Star_movies_hd.png" group-title="",Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Star World ARB" tvg-logo="https://i.imgur.com/HnS8paQ.png" group-title="",Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Dubai One ARB" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="",Dubai One
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+#http://www.elahmad.com/tv/watch.php?id=ldc_1
