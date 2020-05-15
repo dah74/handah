@@ -3,7 +3,7 @@
 http://livecdnh3.tvanywhere.ae/hls/jadeed/index.m3u8?fluxustv.m3u8
 #EXTINF:0 0 tvg-id="mtv-rus" tvg-name="MTV Lebanon ARB" tvg-logo="https://i.imgur.com/qavKIQB.png" group-title="",MTV
 http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="LBC ARB" tvg-logo="https://i.imgur.com/PTOeIjz.png" group-title="",LBC
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PTOeIjz.png" group-title="",LBC
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="" tvg-name="LBC International ARB" tvg-logo="https://www.instaleb.me/sites/default/files/field/image/lbci.jpg"  group-title="",LBCI
 http://cms.accesss.me:25461/live/Cv1pEN6VH7/8351783285/39731.m3u8
