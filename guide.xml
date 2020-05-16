@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="MBC1">
     <display-name lang="ar">MBC 1</display-name>
@@ -2446,95 +2446,6 @@
     <desc lang="ar">يصدر رودولفو قراراً يسمح لكاتالينا بالتجول في أروقة القصر، ويفاجئ الجميع لاحقاً بإعلانه عن رغبته بالزواج منها، الأمر الذي يثير غضب الشعب.(n)</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20200516052200 -0400" stop="20200516060000 -0400" channel="MBC Action">
-    <title lang="ar">ﺑﺮﻧﺎﻣﺞ إبيك تريلز</title>
-  </programme>
-  <programme start="20200516060000 -0400" stop="20200516070000 -0400" channel="MBC Action">
-    <title lang="ar">Driven</title>
-    <desc lang="ar">برنامج ترفيهي متخصص في السيارات، يستعرض البرنامج في كل حلقة أنواعا من السيارات ذات الشهرة العالمية، بالإضافة إلى عمل جولة حول أهم وآخر الأخبار في عالم السيارات، ويقوم أيضا بالاطلاع على آخر ترتيب عالمي لأسرع وأقوى السيارات.(n)</desc>
-    <credits>
-      <actor>سلطان حمدي</actor>
-      <actor>عبدو فغالي</actor>
-      <actor>طوني أبو جودة</actor>
-    </credits>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
-    <category lang="ar">ﺣﺮﻛﺔ</category>
-    <rating system="EG">
-      <value>4</value>
-    </rating>
-  </programme>
-  <programme start="20200516070000 -0400" stop="20200516073000 -0400" channel="MBC Action">
-    <title lang="ar">ﺑﺮﻧﺎﻣﺞ كوت ريد هانديد</title>
-  </programme>
-  <programme start="20200516073000 -0400" stop="20200516080000 -0400" channel="MBC Action">
-    <title lang="ar">ﺑﺮﻧﺎﻣﺞ كوت ريد هانديد</title>
-  </programme>
-  <programme start="20200516080000 -0400" stop="20200516090000 -0400" channel="MBC Action">
-    <title lang="ar">World's most amazing videos</title>
-    <desc lang="ar">يقوم البرنامج بعرض الحوادث والكوارث ومطاردات الشرطة والأحداث الغير عادية التي تلتقطها كاميرات المراقبة.(n)</desc>
-    <credits>
-      <writer>بروس ناش</writer>
-    </credits>
-  </programme>
-  <programme start="20200516090000 -0400" stop="20200516100000 -0400" channel="MBC Action">
-    <title lang="ar">Top Gear UK</title>
-    <desc lang="ar">يتناول البرنامج كل ما يتعلق بعالم السيارات، من خلال تناول تاريخ صناعة السيارات منذ البداية، ومراحل تطور الصناعة، ثم استعراض كل ما هو جديد بجميع أنحاء العالم، سواء بالتقنيات، أوأو بسباقات السيارات، من خلال خبراء في عالم السيارات.(n)</desc>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">ﺣﺮﻛﺔ</category>
-    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
-    <rating system="EG">
-      <value>5.8</value>
-    </rating>
-  </programme>
-  <programme start="20200516100000 -0400" stop="20200516110000 -0400" channel="MBC Action">
-    <title lang="ar">عيش الدور</title>
-    <desc lang="ar">تدور فكرة البرنامج حول استضافة شباب من مختلف أنحاء الوطن العربي وإعطائهم الفرصة لتحقيق جزء من أحلامهم حسب قصته وشغفهم في الحياة من خلال خوض مغامرة رياضية ليختبروا مدى صعوبة الحياة وكيفية مواجهتها، كما يتيح البرنامج لهؤلاء الشباب قيادة سيارات الأحلام، كما يهتم بمظهرهم الشخصي.(n)</desc>
-    <date>2017</date>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
-    <rating system="EG">
-      <value>3.9</value>
-    </rating>
-  </programme>
-  <programme start="20200516110000 -0400" stop="20200516120000 -0400" channel="MBC Action">
-    <title lang="ar">ﺑﺮﻧﺎﻣﺞ تروي</title>
-  </programme>
-  <programme start="20200516120000 -0400" stop="20200516140000 -0400" channel="MBC Action">
-    <title lang="ar">The Transporter</title>
-    <desc lang="ar">تدور قصة الفيلم حول سائق محترف يعمل في العمليات الإجرامية، وفي إحدى العمليات يكلف بنقل فتاة وتنشأ بينهما قصة حب ويكتشف إنها ابنة رئيس عصابة كبيرة. A professional driver who works in criminal operations, is charged with transporting the daughter of a dangerous Chinese crime lord.(n)</desc>
-    <credits>
-      <director>لويس لوترييه</director>
-      <actor>جيسون ستاثام</actor>
-      <actor>كي تشو</actor>
-      <actor>فرانسوا بيرلياند</actor>
-      <actor>مات شولز</actor>
-      <actor>ريك يونغ</actor>
-      <actor>دوغ راند</actor>
-      <writer>لوك بيسون</writer>
-      <writer>روبرت مارك كامن</writer>
-    </credits>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">ﺣﺮﻛﺔ</category>
-    <category lang="ar">ﺟﺮﻳﻤﺔ</category>
-    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
-    <rating system="EG">
-      <value>6.2</value>
-    </rating>
-  </programme>
-  <programme start="20200516140000 -0400" stop="20200516150000 -0400" channel="MBC Action">
-    <title lang="ar">World's most amazing videos</title>
-    <desc lang="ar">يقوم البرنامج بعرض الحوادث والكوارث ومطاردات الشرطة والأحداث الغير عادية التي تلتقطها كاميرات المراقبة.(n)</desc>
-    <credits>
-      <writer>بروس ناش</writer>
-    </credits>
-  </programme>
-  <programme start="20200516150000 -0400" stop="20200516152200 -0400" channel="MBC Action">
-    <title lang="ar">ﺑﺮﻧﺎﻣﺞ إبيك تريلز</title>
-  </programme>
-  <programme start="20200516152200 -0400" stop="20200516160000 -0400" channel="MBC Action">
-    <title lang="ar">ﺑﺮﻧﺎﻣﺞ إبيك تريلز</title>
-  </programme>
   <programme start="20200516160000 -0400" stop="20200516180000 -0400" channel="MBC Action">
     <title lang="ar">فورمولا 1 الجائزة الكبرى</title>
   </programme>
@@ -3163,6 +3074,40 @@
     <category lang="ar">ﺭﻳﺎﺿﻲ</category>
     <rating system="EG">
       <value>7.5</value>
+    </rating>
+  </programme>
+  <programme start="20200518160000 -0400" stop="20200518164500 -0400" channel="MBC Action">
+    <title lang="ar">Reckless</title>
+    <desc lang="ar">في شارلستون، حيث الجريمة والجنس وإنعدام الأمن، تظهر على الساحة فضيحة كبرى لجهاز الشرطة، مما يهدد المدينة بأكملها، وخلال كل هذا يحاول مدعى عام ومحامية أن يخفيا مشاعرهما المتوقدة. As crime, sex and lack of security intermingle in Charleston, a litigator and a city attorney must hide their mutual attraction to each other when a major scandal concerning the police department threatens to tear the city apart.(n)</desc>
+    <credits>
+      <director>جون جراي</director>
+      <actor>كيم وايانز</actor>
+      <actor>مايكل جلاديس</actor>
+      <actor>جريجوري هاريسون</actor>
+      <actor>آنا وود</actor>
+      <writer>دانا ستيفينز</writer>
+    </credits>
+    <rating system="EG">
+      <value>5.7</value>
+    </rating>
+  </programme>
+  <programme start="20200518164500 -0400" stop="20200518173000 -0400" channel="MBC Action">
+    <title lang="ar">Under the Dome</title>
+    <desc lang="ar">يسقط حقل طاقة غامض على بلدة صغيرة في الولايات المتحدة، محاصرًا السكان في الداخل وقاطعاً إياهم عن العالم الخارجي. يتوجب على سكان البلدة معرفة أسرارها وغرضها وأصلها.(n)</desc>
+    <credits>
+      <director>جاك بندر</director>
+      <actor>بريت روبرتسون</actor>
+      <actor>عائشة هيندز</actor>
+      <actor>ماكنزي لينز</actor>
+      <actor>كولين فورد</actor>
+      <actor>دين نوريس</actor>
+      <actor>راشيل لوفيفر</actor>
+      <writer>براين كيه. فوجان</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺧﻴﺎﻝ ﻋﻠﻤﻲ</category>
+    <rating system="EG">
+      <value>6.4</value>
     </rating>
   </programme>
   <programme start="20200516013000 +0000" stop="20200516035900 +0000" channel="MBC Movie Max">
@@ -4522,262 +4467,6 @@
     <desc lang="ar">عن قصة حقيقية هزت العالم العربي عام 2017، يتتبع الاختيار حياة صديقين مقربين تصبح علاقتهما الوطيدة على المحك عندما يتم استدراج أحدهما إلى جماعة متطرفة.(n)</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20200516050000 -0400" stop="20200516060000 -0400" channel="LBCI">
-    <title lang="ar">ياسمينة</title>
-    <desc lang="ar">تدور القصة حول الفتاة (ياسمينة) التي يتركها والدها، بعد أن أخذه الجيش التركي في التجنيد، فتقوم إحدى السيدات بتربيتها، وبعد ذلك تنتقل (ياسمينة) للعيش في أحد القصور عند عائلة ثرية، لكن هذه العائلة جعلتها تعمل لديهم كخادمة.(n)</desc>
-    <credits>
-      <director>إيلي س. معلوف</director>
-      <actor>باسم مغنية</actor>
-      <actor>كارول الحاج</actor>
-      <actor>فادي إبراهيم</actor>
-      <actor>نقولا دانيال</actor>
-      <actor>شريف عيتاوي</actor>
-      <actor>دلال أبو شعيا</actor>
-      <writer>مروان العبد</writer>
-    </credits>
-    <date>2014</date>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">ﺩﺭاﻣﺎ</category>
-    <rating system="EG">
-      <value>5.8</value>
-    </rating>
-  </programme>
-  <programme start="20200516060000 -0400" stop="20200516070000 -0400" channel="LBCI">
-    <title lang="ar">سر</title>
-    <desc lang="ar">تدور الأحداث في إطار درامي حول عامر الذي ينتقم لمقتل شقيقه بقتل رجل وزوجته، بينما يتعرض عامر نفسه لأكثر من محاولة قتل على يد زوجته تالين، وشريكه بهاء، ثم يختفي عامر ليبدأ المحقق في البحث حول أسباب اختفائه. A dramatic series about Amer, who avenges the killing of his brother by killing a man and his wife. Amer becomes the target of several murder attempts by his wife Taline and his partner Bahaa. When Amer disappears, the investigations seeks to uncover where he is.(n)</desc>
-    <credits>
-      <director>مروان بركات</director>
-      <director>غياث الجاجه</director>
-      <actor>بسام كوسا</actor>
-      <actor>باسم مغنية</actor>
-      <actor>داليدا خليل</actor>
-      <actor>وسام حنا</actor>
-      <actor>رواد عليو</actor>
-      <actor>نتاشا شوفاني</actor>
-      <writer>مؤيد النابلسي</writer>
-    </credits>
-    <date>2020</date>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">ﺟﺮﻳﻤﺔ</category>
-    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
-    <category lang="ar">ﻏﻤﻮﺽ</category>
-    <rating system="EG">
-      <value>7.4</value>
-    </rating>
-  </programme>
-  <programme start="20200516070000 -0400" stop="20200516073000 -0400" channel="LBCI">
-    <title lang="ar">برنامج كول وشكور</title>
-  </programme>
-  <programme start="20200516073000 -0400" stop="20200516080000 -0400" channel="LBCI">
-    <title lang="ar">نشرة الأخبار</title>
-  </programme>
-  <programme start="20200516080000 -0400" stop="20200516081000 -0400" channel="LBCI">
-    <title lang="ar">برنامج نحنا لبعض</title>
-  </programme>
-  <programme start="20200516081000 -0400" stop="20200516091000 -0400" channel="LBCI">
-    <title lang="ar">العودة</title>
-    <desc lang="ar">تقع عدة جرائم غامضة، والتي تدفع بدورها المحقق كريم معلوف للذهاب في مغامرات غاية في الخطورة، حتى يتقابل في طريقه مع امرأة تدعى نسيم ويصبح مجبرًا على حمايتها. As a series of mysterious crimes ensues, Detective Karim M'alouf is forced to embark on the most dangerous of journeys to solve the mystery, and he is soon to cross paths with a woman called Nasim who he is forced to protect.(n)</desc>
-    <credits>
-      <director>إيلي السمعان</director>
-      <director>وسام شكيب مصطفى</director>
-      <actor>دانييلا رحمة</actor>
-      <actor>نيكولا معوض</actor>
-      <actor>وسام فارس</actor>
-      <actor>إيهاب شعبان</actor>
-      <actor>رودريغ سليمان</actor>
-      <actor>نغم أبو شديد</actor>
-      <writer>رائد بو عجرم</writer>
-      <writer>طارق سويد</writer>
-    </credits>
-    <date>2020</date>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">ﺩﺭاﻣﺎ</category>
-    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
-    <rating system="EG">
-      <value>5.5</value>
-    </rating>
-  </programme>
-  <programme start="20200516091000 -0400" stop="20200516101000 -0400" channel="LBCI">
-    <title lang="ar">الحرملك ج2</title>
-    <desc lang="ar">تتطور أحداث الجزء الثاني، فبعد أن قلبت مخططات الجواري الأمور، ونجحت الجارية حنة بالانتقام من قمر، تحاول التمكن من مفاصل الخان، وتبدأ الأحداث في التصاعد على وتر الاستغلال، وحصد الفرص بطرق شرعية وأخرى ملتوية مع ازدياد مؤامرات رجال الدولة ومكائد الجواري على أبواب إفلاس الدولة العثمانية. After the harem concubines' plot turns everything upside down, Henna follows her successful revenge on Qamar by trying to seize charge of the Khan. This season deals with the issue of exploitation between the concubines' plots and the statesmen's intrigues, as the Ottoman Empire faces bankruptcy.(n)</desc>
-    <credits>
-      <director>تامر إسحاق</director>
-      <actor>جمال سليمان</actor>
-      <actor>نادين خوري</actor>
-      <actor>هبة نور</actor>
-      <actor>سلافة معمار</actor>
-      <actor>باسم ياخور</actor>
-      <actor>سامر المصري</actor>
-      <writer>سليمان عبدالعزيز</writer>
-    </credits>
-    <date>2020</date>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">تاريخي</category>
-    <category lang="ar">ﺩﺭاﻣﺎ</category>
-    <rating system="EG">
-      <value>7.3</value>
-    </rating>
-  </programme>
-  <programme start="20200516101000 -0400" stop="20200516105500 -0400" channel="LBCI">
-    <title lang="ar">النحات</title>
-    <desc lang="ar">يقرر يمان أن ينتقل إلى بيت العائلة حيث يقيم هناك لتدريس النحت في إحدى الجامعات، ولكن والدته ترفض الفكرة خاصة أن المنزل لم ينتقل إليه أحد منذ وفاة والده، ويسطير عليها الفزع والخوف من فتح باب أغلق منذ سنوات طويلة. When Yaman decides to move into the family house as he prepares to teach sculpture in college, his mother opposes his decision since the house has been empty since his father's death. But the truth is that she is afraid that the move will open a door that was closed years ago.(n)</desc>
-    <credits>
-      <director>مجدي السميري</director>
-      <director>عمرو أفغاني</director>
-      <actor>باسل خياط</actor>
-      <actor>أمل بوشوشة</actor>
-      <actor>إيلي متري</actor>
-      <actor>جوزيف بو نصار</actor>
-      <actor>ليا أبو شعيا</actor>
-      <actor>دارينا الجندي</actor>
-      <writer>بثينة عوض</writer>
-    </credits>
-    <date>2020</date>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
-    <category lang="ar">ﺩﺭاﻣﺎ</category>
-    <category lang="ar">ﻏﻤﻮﺽ</category>
-    <rating system="EG">
-      <value>7.3</value>
-    </rating>
-  </programme>
-  <programme start="20200516105500 -0400" stop="20200516114500 -0400" channel="LBCI">
-    <title lang="ar">عشق ودموع</title>
-    <desc lang="ar">يدور المسلسل حول قيام ممرضة بتبديل بنتين ببعضهما، حيث اخذت العائلة الغنية ابنة العائلة الفقيرة، والعكس صحيح بالنسبة للعائلة الفقيرة وحدث هذا الخطأ بسبب تشابه أسماء العائلتين، وبعد مرور 15 عاما يتم اكتشاف الأمر.(n)</desc>
-    <credits>
-      <director>جودت مرجان</director>
-      <actor>إركان بيتكايا</actor>
-      <actor>نورغول يشيلتشاي</actor>
-      <actor>سيفان كانوفا</actor>
-      <actor>أرتوغرول بوستوغلو</actor>
-      <actor>هميرا</actor>
-      <actor>باريش فالاي</actor>
-      <writer>يلدز تونك</writer>
-    </credits>
-    <date>2014</date>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">ﺩﺭاﻣﺎ</category>
-    <rating system="EG">
-      <value>5.7</value>
-    </rating>
-  </programme>
-  <programme start="20200516114500 -0400" stop="20200516115500 -0400" channel="LBCI">
-    <title lang="ar">برنامج نحنا لبعض</title>
-  </programme>
-  <programme start="20200516115500 -0400" stop="20200516124500 -0400" channel="LBCI">
-    <title lang="ar">سر</title>
-    <desc lang="ar">تدور الأحداث في إطار درامي حول عامر الذي ينتقم لمقتل شقيقه بقتل رجل وزوجته، بينما يتعرض عامر نفسه لأكثر من محاولة قتل على يد زوجته تالين، وشريكه بهاء، ثم يختفي عامر ليبدأ المحقق في البحث حول أسباب اختفائه. A dramatic series about Amer, who avenges the killing of his brother by killing a man and his wife. Amer becomes the target of several murder attempts by his wife Taline and his partner Bahaa. When Amer disappears, the investigations seeks to uncover where he is.(n)</desc>
-    <credits>
-      <director>مروان بركات</director>
-      <director>غياث الجاجه</director>
-      <actor>بسام كوسا</actor>
-      <actor>باسم مغنية</actor>
-      <actor>داليدا خليل</actor>
-      <actor>وسام حنا</actor>
-      <actor>رواد عليو</actor>
-      <actor>نتاشا شوفاني</actor>
-      <writer>مؤيد النابلسي</writer>
-    </credits>
-    <date>2020</date>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">ﺟﺮﻳﻤﺔ</category>
-    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
-    <category lang="ar">ﻏﻤﻮﺽ</category>
-    <rating system="EG">
-      <value>7.4</value>
-    </rating>
-  </programme>
-  <programme start="20200516124500 -0400" stop="20200516132500 -0400" channel="LBCI">
-    <title lang="ar">نشرة الأخبار</title>
-  </programme>
-  <programme start="20200516132500 -0400" stop="20200516142500 -0400" channel="LBCI">
-    <title lang="ar">بالقلب</title>
-    <desc lang="ar">من خلال قصة خيوطها غامضة ومؤثرة تتحكم أمال في حياة ابنتها ديانا بشكل كبير، وحياة حبيبها ناهي، فتتحمل ديانا تداعيات ما قامت به والدتها، أملا في الوصول إلى بر الأمان. A story about the change in perspective that happens after a person goes through life-changing situations in their lives.(n)</desc>
-    <credits>
-      <director>جوليان معلوف</director>
-      <director>وليد فايد</director>
-      <actor>بديع أبو شقرا</actor>
-      <actor>سارة أبي كنعان</actor>
-      <actor>وسام فارس</actor>
-      <actor>كارمن لبس</actor>
-      <actor>دارينا الجندي</actor>
-      <actor>جبريال يمين</actor>
-      <writer>طارق سويد</writer>
-    </credits>
-    <date>2019</date>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">ﺩﺭاﻣﺎ</category>
-    <rating system="EG">
-      <value>6.4</value>
-    </rating>
-  </programme>
-  <programme start="20200516142500 -0400" stop="20200516152500 -0400" channel="LBCI">
-    <title lang="ar">العودة</title>
-    <desc lang="ar">تقع عدة جرائم غامضة، والتي تدفع بدورها المحقق كريم معلوف للذهاب في مغامرات غاية في الخطورة، حتى يتقابل في طريقه مع امرأة تدعى نسيم ويصبح مجبرًا على حمايتها. As a series of mysterious crimes ensues, Detective Karim M'alouf is forced to embark on the most dangerous of journeys to solve the mystery, and he is soon to cross paths with a woman called Nasim who he is forced to protect.(n)</desc>
-    <credits>
-      <director>إيلي السمعان</director>
-      <director>وسام شكيب مصطفى</director>
-      <actor>دانييلا رحمة</actor>
-      <actor>نيكولا معوض</actor>
-      <actor>وسام فارس</actor>
-      <actor>إيهاب شعبان</actor>
-      <actor>رودريغ سليمان</actor>
-      <actor>نغم أبو شديد</actor>
-      <writer>رائد بو عجرم</writer>
-      <writer>طارق سويد</writer>
-    </credits>
-    <date>2020</date>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">ﺩﺭاﻣﺎ</category>
-    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
-    <rating system="EG">
-      <value>5.5</value>
-    </rating>
-  </programme>
-  <programme start="20200516152500 -0400" stop="20200516161000 -0400" channel="LBCI">
-    <title lang="ar">النحات</title>
-    <desc lang="ar">يقرر يمان أن ينتقل إلى بيت العائلة حيث يقيم هناك لتدريس النحت في إحدى الجامعات، ولكن والدته ترفض الفكرة خاصة أن المنزل لم ينتقل إليه أحد منذ وفاة والده، ويسطير عليها الفزع والخوف من فتح باب أغلق منذ سنوات طويلة. When Yaman decides to move into the family house as he prepares to teach sculpture in college, his mother opposes his decision since the house has been empty since his father's death. But the truth is that she is afraid that the move will open a door that was closed years ago.(n)</desc>
-    <credits>
-      <director>مجدي السميري</director>
-      <director>عمرو أفغاني</director>
-      <actor>باسل خياط</actor>
-      <actor>أمل بوشوشة</actor>
-      <actor>إيلي متري</actor>
-      <actor>جوزيف بو نصار</actor>
-      <actor>ليا أبو شعيا</actor>
-      <actor>دارينا الجندي</actor>
-      <writer>بثينة عوض</writer>
-    </credits>
-    <date>2020</date>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
-    <category lang="ar">ﺩﺭاﻣﺎ</category>
-    <category lang="ar">ﻏﻤﻮﺽ</category>
-    <rating system="EG">
-      <value>7.3</value>
-    </rating>
-  </programme>
-  <programme start="20200516161000 -0400" stop="20200516170000 -0400" channel="LBCI">
-    <title lang="ar">الحرملك ج2</title>
-    <desc lang="ar">تتطور أحداث الجزء الثاني، فبعد أن قلبت مخططات الجواري الأمور، ونجحت الجارية حنة بالانتقام من قمر، تحاول التمكن من مفاصل الخان، وتبدأ الأحداث في التصاعد على وتر الاستغلال، وحصد الفرص بطرق شرعية وأخرى ملتوية مع ازدياد مؤامرات رجال الدولة ومكائد الجواري على أبواب إفلاس الدولة العثمانية. After the harem concubines' plot turns everything upside down, Henna follows her successful revenge on Qamar by trying to seize charge of the Khan. This season deals with the issue of exploitation between the concubines' plots and the statesmen's intrigues, as the Ottoman Empire faces bankruptcy.(n)</desc>
-    <credits>
-      <director>تامر إسحاق</director>
-      <actor>جمال سليمان</actor>
-      <actor>نادين خوري</actor>
-      <actor>هبة نور</actor>
-      <actor>سلافة معمار</actor>
-      <actor>باسم ياخور</actor>
-      <actor>سامر المصري</actor>
-      <writer>سليمان عبدالعزيز</writer>
-    </credits>
-    <date>2020</date>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">تاريخي</category>
-    <category lang="ar">ﺩﺭاﻣﺎ</category>
-    <rating system="EG">
-      <value>7.3</value>
-    </rating>
-  </programme>
   <programme start="20200516170000 -0400" stop="20200516180000 -0400" channel="LBCI">
     <title lang="ar">سر</title>
     <desc lang="ar">تدور الأحداث في إطار درامي حول عامر الذي ينتقم لمقتل شقيقه بقتل رجل وزوجته، بينما يتعرض عامر نفسه لأكثر من محاولة قتل على يد زوجته تالين، وشريكه بهاء، ثم يختفي عامر ليبدأ المحقق في البحث حول أسباب اختفائه. A dramatic series about Amer, who avenges the killing of his brother by killing a man and his wife. Amer becomes the target of several murder attempts by his wife Taline and his partner Bahaa. When Amer disappears, the investigations seeks to uncover where he is.(n)</desc>
@@ -5062,6 +4751,15 @@
       <value>7.4</value>
     </rating>
   </programme>
+  <programme start="20200517070000 -0400" stop="20200517073000 -0400" channel="LBCI">
+    <title lang="ar">برنامج كول وشكور</title>
+  </programme>
+  <programme start="20200517073000 -0400" stop="20200517080000 -0400" channel="LBCI">
+    <title lang="ar">نشرة الأخبار</title>
+  </programme>
+  <programme start="20200517080000 -0400" stop="20200517081000 -0400" channel="LBCI">
+    <title lang="ar">برنامج نحنا لبعض</title>
+  </programme>
   <programme start="20200517081000 -0400" stop="20200517091000 -0400" channel="LBCI">
     <title lang="ar">العودة</title>
     <desc lang="ar">تقع عدة جرائم غامضة، والتي تدفع بدورها المحقق كريم معلوف للذهاب في مغامرات غاية في الخطورة، حتى يتقابل في طريقه مع امرأة تدعى نسيم ويصبح مجبرًا على حمايتها. As a series of mysterious crimes ensues, Detective Karim M'alouf is forced to embark on the most dangerous of journeys to solve the mystery, and he is soon to cross paths with a woman called Nasim who he is forced to protect.(n)</desc>
@@ -5149,6 +4847,9 @@
       <value>5.7</value>
     </rating>
   </programme>
+  <programme start="20200517114500 -0400" stop="20200517115500 -0400" channel="LBCI">
+    <title lang="ar">برنامج نحنا لبعض</title>
+  </programme>
   <programme start="20200517115500 -0400" stop="20200517124500 -0400" channel="LBCI">
     <title lang="ar">سر</title>
     <desc lang="ar">تدور الأحداث في إطار درامي حول عامر الذي ينتقم لمقتل شقيقه بقتل رجل وزوجته، بينما يتعرض عامر نفسه لأكثر من محاولة قتل على يد زوجته تالين، وشريكه بهاء، ثم يختفي عامر ليبدأ المحقق في البحث حول أسباب اختفائه. A dramatic series about Amer, who avenges the killing of his brother by killing a man and his wife. Amer becomes the target of several murder attempts by his wife Taline and his partner Bahaa. When Amer disappears, the investigations seeks to uncover where he is.(n)</desc>
@@ -5171,6 +4872,9 @@
     <rating system="EG">
       <value>7.4</value>
     </rating>
+  </programme>
+  <programme start="20200517124500 -0400" stop="20200517132500 -0400" channel="LBCI">
+    <title lang="ar">نشرة الأخبار</title>
   </programme>
   <programme start="20200517132500 -0400" stop="20200517142500 -0400" channel="LBCI">
     <title lang="ar">بالقلب</title>
@@ -5714,6 +5418,249 @@
     <rating system="EG">
       <value>7.3</value>
     </rating>
+  </programme>
+  <programme start="20200518161000 -0400" stop="20200518170000 -0400" channel="LBCI">
+    <title lang="ar">الحرملك ج2</title>
+    <desc lang="ar">تتطور أحداث الجزء الثاني، فبعد أن قلبت مخططات الجواري الأمور، ونجحت الجارية حنة بالانتقام من قمر، تحاول التمكن من مفاصل الخان، وتبدأ الأحداث في التصاعد على وتر الاستغلال، وحصد الفرص بطرق شرعية وأخرى ملتوية مع ازدياد مؤامرات رجال الدولة ومكائد الجواري على أبواب إفلاس الدولة العثمانية. After the harem concubines' plot turns everything upside down, Henna follows her successful revenge on Qamar by trying to seize charge of the Khan. This season deals with the issue of exploitation between the concubines' plots and the statesmen's intrigues, as the Ottoman Empire faces bankruptcy.(n)</desc>
+    <credits>
+      <director>تامر إسحاق</director>
+      <actor>جمال سليمان</actor>
+      <actor>نادين خوري</actor>
+      <actor>هبة نور</actor>
+      <actor>سلافة معمار</actor>
+      <actor>باسم ياخور</actor>
+      <actor>سامر المصري</actor>
+      <writer>سليمان عبدالعزيز</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">تاريخي</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <rating system="EG">
+      <value>7.3</value>
+    </rating>
+  </programme>
+  <programme start="20200518170000 -0400" stop="20200518180000 -0400" channel="LBCI">
+    <title lang="ar">سر</title>
+    <desc lang="ar">تدور الأحداث في إطار درامي حول عامر الذي ينتقم لمقتل شقيقه بقتل رجل وزوجته، بينما يتعرض عامر نفسه لأكثر من محاولة قتل على يد زوجته تالين، وشريكه بهاء، ثم يختفي عامر ليبدأ المحقق في البحث حول أسباب اختفائه. A dramatic series about Amer, who avenges the killing of his brother by killing a man and his wife. Amer becomes the target of several murder attempts by his wife Taline and his partner Bahaa. When Amer disappears, the investigations seeks to uncover where he is.(n)</desc>
+    <credits>
+      <director>مروان بركات</director>
+      <director>غياث الجاجه</director>
+      <actor>بسام كوسا</actor>
+      <actor>باسم مغنية</actor>
+      <actor>داليدا خليل</actor>
+      <actor>وسام حنا</actor>
+      <actor>رواد عليو</actor>
+      <actor>نتاشا شوفاني</actor>
+      <writer>مؤيد النابلسي</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺟﺮﻳﻤﺔ</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
+    <category lang="ar">ﻏﻤﻮﺽ</category>
+    <rating system="EG">
+      <value>7.4</value>
+    </rating>
+  </programme>
+  <programme start="20200518180000 -0400" stop="20200518190000 -0400" channel="LBCI">
+    <title lang="ar">بالقلب</title>
+    <desc lang="ar">من خلال قصة خيوطها غامضة ومؤثرة تتحكم أمال في حياة ابنتها ديانا بشكل كبير، وحياة حبيبها ناهي، فتتحمل ديانا تداعيات ما قامت به والدتها، أملا في الوصول إلى بر الأمان. A story about the change in perspective that happens after a person goes through life-changing situations in their lives.(n)</desc>
+    <credits>
+      <director>جوليان معلوف</director>
+      <director>وليد فايد</director>
+      <actor>بديع أبو شقرا</actor>
+      <actor>سارة أبي كنعان</actor>
+      <actor>وسام فارس</actor>
+      <actor>كارمن لبس</actor>
+      <actor>دارينا الجندي</actor>
+      <actor>جبريال يمين</actor>
+      <writer>طارق سويد</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <rating system="EG">
+      <value>6.4</value>
+    </rating>
+  </programme>
+  <programme start="20200518190000 -0400" stop="20200518193000 -0400" channel="LBCI">
+    <title lang="ar">النحات</title>
+    <desc lang="ar">يقرر يمان أن ينتقل إلى بيت العائلة حيث يقيم هناك لتدريس النحت في إحدى الجامعات، ولكن والدته ترفض الفكرة خاصة أن المنزل لم ينتقل إليه أحد منذ وفاة والده، ويسطير عليها الفزع والخوف من فتح باب أغلق منذ سنوات طويلة. When Yaman decides to move into the family house as he prepares to teach sculpture in college, his mother opposes his decision since the house has been empty since his father's death. But the truth is that she is afraid that the move will open a door that was closed years ago.(n)</desc>
+    <credits>
+      <director>مجدي السميري</director>
+      <director>عمرو أفغاني</director>
+      <actor>باسل خياط</actor>
+      <actor>أمل بوشوشة</actor>
+      <actor>إيلي متري</actor>
+      <actor>جوزيف بو نصار</actor>
+      <actor>ليا أبو شعيا</actor>
+      <actor>دارينا الجندي</actor>
+      <writer>بثينة عوض</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">ﻏﻤﻮﺽ</category>
+    <rating system="EG">
+      <value>7.3</value>
+    </rating>
+  </programme>
+  <programme start="20200518193000 -0400" stop="20200518203000 -0400" channel="LBCI">
+    <title lang="ar">العودة</title>
+    <desc lang="ar">تقع عدة جرائم غامضة، والتي تدفع بدورها المحقق كريم معلوف للذهاب في مغامرات غاية في الخطورة، حتى يتقابل في طريقه مع امرأة تدعى نسيم ويصبح مجبرًا على حمايتها. As a series of mysterious crimes ensues, Detective Karim M'alouf is forced to embark on the most dangerous of journeys to solve the mystery, and he is soon to cross paths with a woman called Nasim who he is forced to protect.(n)</desc>
+    <credits>
+      <director>إيلي السمعان</director>
+      <director>وسام شكيب مصطفى</director>
+      <actor>دانييلا رحمة</actor>
+      <actor>نيكولا معوض</actor>
+      <actor>وسام فارس</actor>
+      <actor>إيهاب شعبان</actor>
+      <actor>رودريغ سليمان</actor>
+      <actor>نغم أبو شديد</actor>
+      <writer>رائد بو عجرم</writer>
+      <writer>طارق سويد</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
+    <rating system="EG">
+      <value>5.5</value>
+    </rating>
+  </programme>
+  <programme start="20200518203000 -0400" stop="20200518213000 -0400" channel="LBCI">
+    <title lang="ar">الحرملك ج2</title>
+    <desc lang="ar">تتطور أحداث الجزء الثاني، فبعد أن قلبت مخططات الجواري الأمور، ونجحت الجارية حنة بالانتقام من قمر، تحاول التمكن من مفاصل الخان، وتبدأ الأحداث في التصاعد على وتر الاستغلال، وحصد الفرص بطرق شرعية وأخرى ملتوية مع ازدياد مؤامرات رجال الدولة ومكائد الجواري على أبواب إفلاس الدولة العثمانية. After the harem concubines' plot turns everything upside down, Henna follows her successful revenge on Qamar by trying to seize charge of the Khan. This season deals with the issue of exploitation between the concubines' plots and the statesmen's intrigues, as the Ottoman Empire faces bankruptcy.(n)</desc>
+    <credits>
+      <director>تامر إسحاق</director>
+      <actor>جمال سليمان</actor>
+      <actor>نادين خوري</actor>
+      <actor>هبة نور</actor>
+      <actor>سلافة معمار</actor>
+      <actor>باسم ياخور</actor>
+      <actor>سامر المصري</actor>
+      <writer>سليمان عبدالعزيز</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">تاريخي</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <rating system="EG">
+      <value>7.3</value>
+    </rating>
+  </programme>
+  <programme start="20200518213000 -0400" stop="20200518223000 -0400" channel="LBCI">
+    <title lang="ar">عشق ودموع</title>
+    <desc lang="ar">يدور المسلسل حول قيام ممرضة بتبديل بنتين ببعضهما، حيث اخذت العائلة الغنية ابنة العائلة الفقيرة، والعكس صحيح بالنسبة للعائلة الفقيرة وحدث هذا الخطأ بسبب تشابه أسماء العائلتين، وبعد مرور 15 عاما يتم اكتشاف الأمر.(n)</desc>
+    <credits>
+      <director>جودت مرجان</director>
+      <actor>إركان بيتكايا</actor>
+      <actor>نورغول يشيلتشاي</actor>
+      <actor>سيفان كانوفا</actor>
+      <actor>أرتوغرول بوستوغلو</actor>
+      <actor>هميرا</actor>
+      <actor>باريش فالاي</actor>
+      <writer>يلدز تونك</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <rating system="EG">
+      <value>5.7</value>
+    </rating>
+  </programme>
+  <programme start="20200518223000 -0400" stop="20200518233000 -0400" channel="LBCI">
+    <title lang="ar">ياسمينة</title>
+    <desc lang="ar">تدور القصة حول الفتاة (ياسمينة) التي يتركها والدها، بعد أن أخذه الجيش التركي في التجنيد، فتقوم إحدى السيدات بتربيتها، وبعد ذلك تنتقل (ياسمينة) للعيش في أحد القصور عند عائلة ثرية، لكن هذه العائلة جعلتها تعمل لديهم كخادمة.(n)</desc>
+    <credits>
+      <director>إيلي س. معلوف</director>
+      <actor>باسم مغنية</actor>
+      <actor>كارول الحاج</actor>
+      <actor>فادي إبراهيم</actor>
+      <actor>نقولا دانيال</actor>
+      <actor>شريف عيتاوي</actor>
+      <actor>دلال أبو شعيا</actor>
+      <writer>مروان العبد</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <rating system="EG">
+      <value>5.8</value>
+    </rating>
+  </programme>
+  <programme start="20200518233000 -0400" stop="20200519002500 -0400" channel="LBCI">
+    <title lang="ar">سر</title>
+    <desc lang="ar">تدور الأحداث في إطار درامي حول عامر الذي ينتقم لمقتل شقيقه بقتل رجل وزوجته، بينما يتعرض عامر نفسه لأكثر من محاولة قتل على يد زوجته تالين، وشريكه بهاء، ثم يختفي عامر ليبدأ المحقق في البحث حول أسباب اختفائه. A dramatic series about Amer, who avenges the killing of his brother by killing a man and his wife. Amer becomes the target of several murder attempts by his wife Taline and his partner Bahaa. When Amer disappears, the investigations seeks to uncover where he is.(n)</desc>
+    <credits>
+      <director>مروان بركات</director>
+      <director>غياث الجاجه</director>
+      <actor>بسام كوسا</actor>
+      <actor>باسم مغنية</actor>
+      <actor>داليدا خليل</actor>
+      <actor>وسام حنا</actor>
+      <actor>رواد عليو</actor>
+      <actor>نتاشا شوفاني</actor>
+      <writer>مؤيد النابلسي</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺟﺮﻳﻤﺔ</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
+    <category lang="ar">ﻏﻤﻮﺽ</category>
+    <rating system="EG">
+      <value>7.4</value>
+    </rating>
+  </programme>
+  <programme start="20200519005000 -0400" stop="20200519014000 -0400" channel="LBCI">
+    <title lang="ar">عشق ودموع</title>
+    <desc lang="ar">يدور المسلسل حول قيام ممرضة بتبديل بنتين ببعضهما، حيث اخذت العائلة الغنية ابنة العائلة الفقيرة، والعكس صحيح بالنسبة للعائلة الفقيرة وحدث هذا الخطأ بسبب تشابه أسماء العائلتين، وبعد مرور 15 عاما يتم اكتشاف الأمر.(n)</desc>
+    <credits>
+      <director>جودت مرجان</director>
+      <actor>إركان بيتكايا</actor>
+      <actor>نورغول يشيلتشاي</actor>
+      <actor>سيفان كانوفا</actor>
+      <actor>أرتوغرول بوستوغلو</actor>
+      <actor>هميرا</actor>
+      <actor>باريش فالاي</actor>
+      <writer>يلدز تونك</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <rating system="EG">
+      <value>5.7</value>
+    </rating>
+  </programme>
+  <programme start="20200519014000 -0400" stop="20200519023000 -0400" channel="LBCI">
+    <title lang="ar">العودة</title>
+    <desc lang="ar">تقع عدة جرائم غامضة، والتي تدفع بدورها المحقق كريم معلوف للذهاب في مغامرات غاية في الخطورة، حتى يتقابل في طريقه مع امرأة تدعى نسيم ويصبح مجبرًا على حمايتها. As a series of mysterious crimes ensues, Detective Karim M'alouf is forced to embark on the most dangerous of journeys to solve the mystery, and he is soon to cross paths with a woman called Nasim who he is forced to protect.(n)</desc>
+    <credits>
+      <director>إيلي السمعان</director>
+      <director>وسام شكيب مصطفى</director>
+      <actor>دانييلا رحمة</actor>
+      <actor>نيكولا معوض</actor>
+      <actor>وسام فارس</actor>
+      <actor>إيهاب شعبان</actor>
+      <actor>رودريغ سليمان</actor>
+      <actor>نغم أبو شديد</actor>
+      <writer>رائد بو عجرم</writer>
+      <writer>طارق سويد</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
+    <rating system="EG">
+      <value>5.5</value>
+    </rating>
+  </programme>
+  <programme start="20200519030000 -0400" stop="20200519043000 -0400" channel="LBCI">
+    <title lang="ar">نهاركم سعيد</title>
+    <desc lang="ar">برنامج صباحي يومي، يهتم بمناقشة آخر المستجدات على الساحة السياسية، من خلال إستضافة المحليين السياسيين، لمناقشة القضايا التي تهم الرأي العام في لبنان. كان البرنامج عند انطلاقته بعام 1996 يتناول الأحداث السياسية بفقرة صغيرة مدتها نصف ساعة وبقية فترة البرنامج كانت حول أمور ثقافية ومنوعة.(n)</desc>
+    <date>1996</date>
   </programme>
   <programme start="20200516055500 -0400" stop="20200516060000 -0400" channel="أبو ظبي">
     <title lang="ar">برنامج الوثيقة</title>
@@ -8337,42 +8284,6 @@
       <value>5.8</value>
     </rating>
   </programme>
-  <programme start="20200516050000 -0400" stop="20200516060000 -0400" channel="National Geographic Abu Dhabi">
-    <title lang="ar">تحقيقات الكوارث الجوية</title>
-  </programme>
-  <programme start="20200516060000 -0400" stop="20200516070000 -0400" channel="National Geographic Abu Dhabi">
-    <title lang="ar">أشرس كائنات أفريقيا : منافسة شرسة</title>
-  </programme>
-  <programme start="20200516070000 -0400" stop="20200516080000 -0400" channel="National Geographic Abu Dhabi">
-    <title lang="ar">اكتشاف عالم المحيطات الموسم الثاني</title>
-  </programme>
-  <programme start="20200516080000 -0400" stop="20200516090000 -0400" channel="National Geographic Abu Dhabi">
-    <title lang="ar">خاص : رمضان</title>
-  </programme>
-  <programme start="20200516090000 -0400" stop="20200516100000 -0400" channel="National Geographic Abu Dhabi">
-    <title lang="ar">العبقري : بيكاسو</title>
-  </programme>
-  <programme start="20200516100000 -0400" stop="20200516110000 -0400" channel="National Geographic Abu Dhabi">
-    <title lang="ar">صانع السيارات الخارقة</title>
-  </programme>
-  <programme start="20200516110000 -0400" stop="20200516120000 -0400" channel="National Geographic Abu Dhabi">
-    <title lang="ar">سمكة التونة العنيدة: الشمال vs الجنوب</title>
-  </programme>
-  <programme start="20200516120000 -0400" stop="20200516130000 -0400" channel="National Geographic Abu Dhabi">
-    <title lang="ar">علم البسطاء</title>
-  </programme>
-  <programme start="20200516130000 -0400" stop="20200516140000 -0400" channel="National Geographic Abu Dhabi">
-    <title lang="ar">يوم على المريخ</title>
-  </programme>
-  <programme start="20200516140000 -0400" stop="20200516150000 -0400" channel="National Geographic Abu Dhabi">
-    <title lang="ar">إستكشاف الصين</title>
-  </programme>
-  <programme start="20200516150000 -0400" stop="20200516160000 -0400" channel="National Geographic Abu Dhabi">
-    <title lang="ar">أمن المطارات : الدرجة الأولى</title>
-  </programme>
-  <programme start="20200516160000 -0400" stop="20200516170000 -0400" channel="National Geographic Abu Dhabi">
-    <title lang="ar">أشرس كائنات أفريقيا : منافسة شرسة</title>
-  </programme>
   <programme start="20200516170000 -0400" stop="20200516180000 -0400" channel="National Geographic Abu Dhabi">
     <title lang="ar">المستكشف</title>
   </programme>
@@ -8417,6 +8328,9 @@
   </programme>
   <programme start="20200517070000 -0400" stop="20200517080000 -0400" channel="National Geographic Abu Dhabi">
     <title lang="ar">خاص : أشرس الكائنات في العالم</title>
+  </programme>
+  <programme start="20200517080000 -0400" stop="20200517090000 -0400" channel="National Geographic Abu Dhabi">
+    <title lang="ar">خاص : رمضان</title>
   </programme>
   <programme start="20200517090000 -0400" stop="20200517100000 -0400" channel="National Geographic Abu Dhabi">
     <title lang="ar">تحقيقات الكوارث الجوية</title>
