@@ -4,9 +4,9 @@
     <display-name lang="ar">MBC 1</display-name>
     <url>http://www.mbc.net</url>
   </channel>
-  <channel id="MBC 2">
-    <display-name lang="ar">MBC 2</display-name>
-    <url>http://www.elcinema.com</url>
+  <channel id="MBC2">
+    <display-name lang="ar">MBC2</display-name>
+    <url>http://www.mbc.net</url>
   </channel>
   <channel id="MBC4">
     <display-name lang="ar">MBC 4</display-name>
@@ -16,9 +16,9 @@
     <display-name lang="ar">MBC Action</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
-  <channel id="MBC MAX">
-    <display-name lang="ar">MBC MAX</display-name>
-    <url>http://www.elcinema.com</url>
+  <channel id="MBC Movie Max">
+    <display-name lang="ar">MBC Max</display-name>
+    <url>http://www.mbc.net</url>
   </channel>
   <channel id="MBC Drama">
     <display-name lang="ar">MBC Drama</display-name>
@@ -38,10 +38,6 @@
   </channel>
   <channel id="National Geographic Abu Dhabi">
     <display-name lang="ar">Nat Geo AD</display-name>
-    <url>http://www.elcinema.com</url>
-  </channel>
-  <channel id="Al Jadeed TV">
-    <display-name lang="ar">Al Jadeed</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <programme start="20200516001700 +0000" stop="20200516010700 +0000" channel="MBC1">
@@ -1015,197 +1011,445 @@
     <desc lang="ar">استعيدوا ذكريات الماضي الجميل مع أحد أهم المسلسلات الكويتية الكوميدية، درب الزلق.(n)</desc>
     <category lang="ar">كوميدي</category>
   </programme>
-  <programme start="20200516040000 -0400" stop="20200516053000 -0400" channel="MBC 2">
-    <title lang="ar">The Flintstones</title>
-    <desc lang="ar">"الفلينستون" و"الرابرز" عائلتان تعيشان في العصر الحجري الحديث.(فريد) و(بارني) يعملان في شركة التعدين الحجرية، فريد يقرض بارني بعض الأموال من أجل أن يستطيع بناء منزل، وأن يقوم هو وزوجته بتحقيق حلمهما بتبني أحد الأطفال. حينما يتم الترشح لمنصب نائب رئيس الشركة، يتقدم فريد وبارني للوظيفة ويساعد بارني فريد في الحصول على الوظيفة؛ التي يكتشف بعد ذلك أنها مؤامرة من (كليف) من أجل توريطه في قضية اختلاس. In a modern stone-age world, Barney's attempt to repay his friend Flint for helping him adopt a child by swapping their answers for an aptitude test backfires when Barney finds himself out of a job and Flint discovers that he was awarded his new position to take the fall for a scheme.(n)</desc>
-    <credits>
-      <director>برايان ليفانت</director>
-      <actor>جون جودمان</actor>
-      <actor>إليزابيث بيركنز</actor>
-      <actor>ريك مورانيس</actor>
-      <actor>روزي أودونيل</actor>
-      <actor>كايل ماكلاشلان</actor>
-      <actor>هالي بيري</actor>
-      <writer>ستيفن إي. دي سوزا</writer>
-      <writer>جيم جينيوين</writer>
-    </credits>
+  <programme start="20200516012900 +0000" stop="20200516032900 +0000" channel="MBC2">
+    <title lang="ar">كنكشن</title>
+    <desc lang="ar">فيلم يحكي قصة حياة طبيب الأمراض العصبية الدكتور بينيت أومالو الذي كان أول من اكتشف إصابة أحد لاعبي كرة القدم بالتهاب الدماغ المزمن وبذل قصارى جهده لإذكاء الوعي العام حول المرض.(n)</desc>
+    <category lang="ar">سيرة ذاتية</category>
   </programme>
-  <programme start="20200516053000 -0400" stop="20200516073000 -0400" channel="MBC 2">
-    <title lang="ar">O</title>
-    <desc lang="ar">لا يترك المدرب الصارم دوك جولدنج أي شيء لقيادة فريقه لكرة السلة بالمدرسة الداخلية من أجل تحقيق النصر تلو الآخر، لكن ابنه هوجو يشعر بأنه يتميز بتعدد القوى الفنية لذا لا يتعب نفسه ويحصل على المنشطات، في حين يعطي والده جائزة أفضل لاعب لأودين وقال له أنه يحبه مثل ابنه، وهو ما أثار غضب هوجو. Tough coach Duke Goulding always leads his home school basketball team to victory , but his son Hugo doesn't tire himself and uses stimulants, while his father gives Odin the best player award and tells him he loves him like his son, which angered Hugo.(n)</desc>
-    <credits>
-      <director>تيم بلاك نيلسون</director>
-      <actor>ميكي فايفر</actor>
-      <actor>مارتن شين</actor>
-      <actor>جوش هارتنت</actor>
-      <actor>جوليا ستايلز</actor>
-      <writer>وليم شكسبير</writer>
-      <writer>براد كايا</writer>
-    </credits>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
-    <category lang="ar">ﺭﻭﻣﺎﻧﺴﻲ</category>
-    <category lang="ar">ﺩﺭاﻣﺎ</category>
+  <programme start="20200516032900 +0000" stop="20200516035900 +0000" channel="MBC2">
+    <title lang="ar">إنترتاينمنت تونايت</title>
+    <desc lang="ar">مجموعة من الأخبار الترفيهية والمتنوعة عن المشاهير والسينما والتلفزيون والموسيقى والأزياء وعروض الجوائز والمناسبات الخاصة بشكل رائد وشيق.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
   </programme>
-  <programme start="20200516073000 -0400" stop="20200516080000 -0400" channel="MBC 2">
-    <title lang="ar">أفلام ونجوم</title>
-    <desc lang="ar">البرنامج دليل يرشدنا إلى عمق عالم الأفلام، لتنبض هوليوود بالحياة على الشاشة الصغيرة، حيث يلقي الضوء على العديد من اﻷفلام الصادرة وعلى العديد من النجوم البارزين.(n)</desc>
-    <date>2018</date>
-    <rating system="EG">
-      <value>5.1</value>
-    </rating>
+  <programme start="20200516035900 +0000" stop="20200516060000 +0000" channel="MBC2">
+    <title lang="ar">ريميمبر ذا تايتنز</title>
+    <desc lang="ar">القصة الحقيقية الملهمة والاستثنائية لمدينة في فيرجينيا والتي مزقها التعصب العنصري، والرجلين اللذين قاما بتسوية تلك الأمور.(n)</desc>
+    <category lang="ar">دراما</category>
   </programme>
-  <programme start="20200516080000 -0400" stop="20200516093000 -0400" channel="MBC 2">
-    <title lang="ar">Agent Cody Banks</title>
-    <desc lang="ar">يعمل الفتى المراهق (كودي بانكس9 الذي لم يتجاوز الخامسة عشر لدى المخابرات المركزية الأميركية، ويتم تدريبه سرًا في أحد المعسكرات ليتمكن من التقرب إلى زميلته (ناتلي) في المدرسة. يرغب كودي في الوصول من خلالها إلى والدها العالم الذي تمكن من اختراع إنسان آلي غير قابل للتدمير. يضطر كودي للتعايش مع معظم مشاكل المراهقين، مثل تدخل أبويه في شؤونه والأعمال المنزلية التي لا يطيق أداءها، بالإضافة إلى رغبته في إبهار حبيبته.(n)</desc>
-    <credits>
-      <director>هارالد زورات</director>
-      <actor>فرانكي مونيز</actor>
-      <actor>هيلاري داف</actor>
-      <actor>أنجي هارمون</actor>
-      <actor>كيث دايفيد</actor>
-      <actor>سينثيا ستيفنسون</actor>
-      <actor>آرنولد فوسلو</actor>
-      <writer>آشلي ميلر</writer>
-    </credits>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">ﻛﻮﻣﻴﺪﻱ</category>
-    <category lang="ar">ﺣﺮﻛﺔ</category>
-    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
+  <programme start="20200516060000 +0000" stop="20200516075900 +0000" channel="MBC2">
+    <title lang="ar">ذا مامي</title>
+    <desc lang="ar">عقاباً له على قيامه بقتل فرعون سيتي، وخيانته مع عشيقته، يتم لعن الكاهن المصري إمحوتب ويحنط حياً، ولكن عندما تتعثر بقبره مجموعة من صائدي الكنوز عن طريق الصدفة في عام 1923، تعود المومياء إلى الحياة!(n)</desc>
+    <category lang="ar">أكشن</category>
   </programme>
-  <programme start="20200516093000 -0400" stop="20200516100000 -0400" channel="MBC 2">
-    <title lang="ar">Entertainment Tonight</title>
-    <desc lang="ar">برنامج يومي، يتم من خلاله تقديم العديد من الأخبار العالمية والمقابلات وما وراء الكواليس عن الأفلام والسينما العالمية ونجومها.(n)</desc>
-    <credits>
-      <director>ألفريد ماسيني</director>
-      <actor>ماري هارت</actor>
-      <actor>مارك ستينيز</actor>
-    </credits>
-    <rating system="EG">
-      <value>5.9</value>
-    </rating>
+  <programme start="20200516075900 +0000" stop="20200516092900 +0000" channel="MBC2">
+    <title lang="ar">ذا فلينستونز</title>
+    <desc lang="ar">هناك مشكلة على وشك أن تتفاقم في بيدروك عندما يؤدي الخلط بأوراق الامتحانات إلى تولي فريد فلينستون منصب نائب رئيس شركة سليت آند كومباني. والآن، يخطط موظف شرير وسكرتيرته لمؤامرة من أجل توريطه في قضية اختلاس.(n)</desc>
+    <category lang="ar">كوميدي</category>
   </programme>
-  <programme start="20200516100000 -0400" stop="20200516113000 -0400" channel="MBC 2">
-    <title lang="ar">Old School</title>
-    <desc lang="ar">تدور أحداث الفيلم في قالب من الكوميديا حول ثلاثة من الرجال يحاولون استرجاع وتذكر أيام الدراسة القديمة واستعادة كل مغامراتهم وأمجادهم في تلك اﻷيام الفائتة.(n)</desc>
-    <credits>
-      <actor>ويل فاريل</actor>
-      <actor>فينيس فوجان</actor>
-      <actor>لوك ويلسون</actor>
-      <actor>ليا ريميني</actor>
-      <actor>مات والاش</actor>
-    </credits>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">ﻛﻮﻣﻴﺪﻱ</category>
-    <rating system="EG">
-      <value>6.1</value>
-    </rating>
+  <programme start="20200516092900 +0000" stop="20200516110500 +0000" channel="MBC2">
+    <title lang="ar">أو</title>
+    <desc lang="ar">أودين جيمس هو نجم كرة سلة في المدرسة الثانوية، بينما صديقه المضطرب هيوجو، وهو نجل المدرب يشعر بالاستياء الشديد من تفضيل والده لأودين في الملعب وخارجه، الأمر الذي يدفع به إلى وضع خطة شيطانية يهدف من خلالها إلى زعزعة الثقة بين \"أو\" وابنة العميد.(n)</desc>
+    <category lang="ar">دراما</category>
   </programme>
-  <programme start="20200516113000 -0400" stop="20200516120000 -0400" channel="MBC 2">
-    <title lang="ar">Celebrity Scoop</title>
-    <desc lang="ar">برنامج ترفيهي إخباري، يتناول الحياة الشخصية لمشاهير السينما والتليفزيون والموسيقى، وأسرارهم الدفينة، وأحدث أخبارهم، ونصائح بخصوص الموضة والجمال واﻷزياء.(n)</desc>
-    <rating system="EG">
-      <value>5.3</value>
-    </rating>
+  <programme start="20200516110500 +0000" stop="20200516113000 +0000" channel="MBC2">
+    <title lang="ar">#647</title>
+    <desc lang="ar">يعتبر البرنامج بمثابة دليل يرشدنا إلى عمق عالم الأفلام، لتنبض هوليوود بالحياة على الشاشة الصغيرة!(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
   </programme>
-  <programme start="20200516120000 -0400" stop="20200516133000 -0400" channel="MBC 2">
-    <title lang="ar">Bad Teacher</title>
-    <desc lang="ar">بعد فسخ خطبتها مع رجل ثري، تعود (إليزابيث هالسي) مجددًا إلى عملها كمدرسة للمرحلة الثانوية، وتحاول توفير اﻷموال ﻷجل عملية تجميلية لتكبير الثدي، وتحاول كسب قلب (سكوت) المدرس الجديد الثري، كما تسعى للحصول على زيادة في راتبها لو حاز فصلها على الدرجات اﻷعلى في درجات الولاية. This is a comedy about a new teacher (Elisabeth) who joins a high school and is seen abusing her position and her resources. The movie portrays pranks and tricks amongst the teachers involving the new teacher , Mr. Scott and the PE teacher.(n)</desc>
-    <credits>
-      <director>جاك كاسدان</director>
-      <actor>جاستين تيمبرليك</actor>
-      <actor>مولي شانون</actor>
-      <actor>لوسي بانش</actor>
-      <actor>جيسون سيجال</actor>
-      <actor>كاميرون دياز</actor>
-      <actor>جون مايكل هيجينز</actor>
-      <writer>لي أيزنبرج</writer>
-      <writer>جين ستوبنتسكي</writer>
-    </credits>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">ﻛﻮﻣﻴﺪﻱ</category>
-    <category lang="ar">ﺩﺭاﻣﺎ</category>
-    <rating system="EG">
-      <value>6.3</value>
-    </rating>
+  <programme start="20200516113000 +0000" stop="20200516133400 +0000" channel="MBC2">
+    <title lang="ar">إيجنت كودي بانكس</title>
+    <desc lang="ar">كودي بانكس هو مراهق يعمل لدى وكالة الاستخبارات المركزية، ولديه مهمة بأن يتواصل مع زميلته ناتالي ليكشف مخطط والدها الوحشي في إنشاء روبوتات قاتلة.(n)</desc>
+    <category lang="ar">أكشن</category>
   </programme>
-  <programme start="20200516133000 -0400" stop="20200516140000 -0400" channel="MBC 2">
-    <title lang="ar">Making the Movies</title>
-    <desc lang="ar">يتناول البرنامج العديد من الكواليس في صناعة السينما والأفلام، والطريقة التي يقوم الممثلين فيها بتأدية أدوارهم من خلال عمل فريق كامل.(n)</desc>
-    <rating system="EG">
-      <value>5</value>
-    </rating>
+  <programme start="20200516133400 +0000" stop="20200516135900 +0000" channel="MBC2">
+    <title lang="ar">إنترتاينمنت تونايت</title>
+    <desc lang="ar">مجموعة من الأخبار الترفيهية والمتنوعة عن المشاهير والسينما والتلفزيون والموسيقى والأزياء وعروض الجوائز والمناسبات الخاصة بشكل رائد وشيق.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
   </programme>
-  <programme start="20200516140000 -0400" stop="20200516160000 -0400" channel="MBC 2">
-    <title lang="ar">The Heat</title>
-    <desc lang="ar">تتعاون العميلة الخاصة سارا أشبورن (ساندرا بولوك) التي تعمل بمكتب التحقيقات الفيدرالي، والمعروف عنها بأنها سريعة الغضب والتوتر، مع الشرطية شانون (ميليسا مكارثي) من بوسطن، لكي يستطيعا القبض على أكبر رئيس عصابة للمخدرات، وأثناء تلك الأحداث تقع الكثير من المواقف الكوميدية وتنشأ بينهما صداقة حقيقية. In this cop comedy, a very unlikable pair is made when the prickly FBI agent Sarah Ashburn (Sandra Bullock) has to team up with a crude Boston cop (Melissa McCarthy) to track down a ruthless drug lord.(n)</desc>
-    <credits>
-      <director>بول فيج</director>
-      <actor>ساندرا بولوك</actor>
-      <actor>بن فالكون</actor>
-      <actor>ميليسا مكارثي</actor>
-      <actor>مايكل رابابورت</actor>
-      <actor>توني هال</actor>
-      <actor>ناثان كوردي</actor>
-      <writer>كاتي ديبولد</writer>
-    </credits>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">ﺟﺮﻳﻤﺔ</category>
-    <category lang="ar">ﺣﺮﻛﺔ</category>
-    <category lang="ar">ﻛﻮﻣﻴﺪﻱ</category>
-    <rating system="EG">
-      <value>5</value>
-    </rating>
+  <programme start="20200516135900 +0000" stop="20200516153400 +0000" channel="MBC2">
+    <title lang="ar">أولد سكول</title>
+    <desc lang="ar">ثلاثة رجال يسترجعون سنوات الكلية الخالية من الهموم من خلال عيش حياة جامحة في هذه الكوميديا المفرطة.(n)</desc>
+    <category lang="ar">كوميدي</category>
   </programme>
-  <programme start="20200516160000 -0400" stop="20200516180000 -0400" channel="MBC 2">
-    <title lang="ar">Bad Moms</title>
-    <desc lang="ar">امرأة تحيا حياة شبه مثالية: زواج عظيم، أطفال تسبق سنها، منزل خلاب، مظهر مذهل، لكن تقدمها في مسيرة حياتها يبعث على الإحباط رغم مثابرتها في العمل، تلتقي اثنين من الأمهات وهما (كارلا) و(كيكي)، حيث تتحالف الثلاثة لتخطي كل حدود حيواتهن الرتيبة، كل هذا في إطار من الكوميديا. A Women lives near-perfect marriage is great, children precede her age, home of breathtaking view, but the progress of her career is frustrating, even though she works double effort, and highly committed, with all the frustrations she faces, she is about to reach the point of explosion, which get her forming an alliance with a group of other mothers to overcome all their routine lives.(n)</desc>
-    <credits>
-      <director>جون لوكاس</director>
-      <director>سكوت مور</director>
-      <actor>ميلا كونيس</actor>
-      <actor>كاثرين هان</actor>
-      <actor>كريستين بيل</actor>
-      <actor>كريستينا أبليجيت</actor>
-      <actor>أونا لورانس</actor>
-      <actor>أني مومولو</actor>
-      <writer>سكوت مور</writer>
-      <writer>جون لوكاس</writer>
-    </credits>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">ﻛﻮﻣﻴﺪﻱ</category>
-    <rating system="EG">
-      <value>5.7</value>
-    </rating>
+  <programme start="20200516153400 +0000" stop="20200516155900 +0000" channel="MBC2">
+    <title lang="ar">سيليبريتي سكوب</title>
+    <desc lang="ar">نسلط الضوء على أكثر الفنانين إثارة في عالم الأفلام والموسيقى والأزياء والبرامج التلفزيونية، ونتحدث عن أكثر الأسرار التي يحتضنها النجوم خصوصية، بالإضافة إلى المصممين المفضلين لديهم ومعلومات عن الجمال ونمط معيشتهم وأخيراً حياتهم العاطفية.(n)</desc>
+    <category lang="ar">ترفيه</category>
   </programme>
-  <programme start="20200516180000 -0400" stop="20200516193000 -0400" channel="MBC 2">
-    <title lang="ar">Vacation</title>
-    <desc lang="ar">في محاولة جديدة لأن يجمع شمل عائلته الصغيرة من جديد، ولكي يشهدهم على الرحلة التي قام بها في طفولته، يقوم راستي جريسوولد (إد هيلمز) باصطحاب زوجته وأبنائه في رحلة على الطريق إلى وايلي وورلد الواقعة بولاية كاليفورنيا الأمريكية، ولكن لسوء حظ راستي وأسرته، لا تسير خطة راستي حسبما كان يتصور بشكل دقيق. In an attempt to recreate his childhood vacation to his family, Rusty Griswold takes his wife and their two sons on a cross-country road trip to the coolest theme park in America, hoping that this trip will bring them closer together. But events take an unexpected turn.(n)</desc>
-    <credits>
-      <director>جون فرانسيس دالي</director>
-      <director>جوناثان غولدشتاين</director>
-      <actor>إد هيلمز</actor>
-      <actor>كريستينا أبليجيت</actor>
-      <actor>فريد جالي</actor>
-      <actor>هانتر دينويلز</actor>
-      <actor>نانسي ديمارس</actor>
-      <actor>مايلز دوليك</actor>
-      <writer>جوناثان غولدشتاين</writer>
-      <writer>جون فرانسيس دالي</writer>
-    </credits>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
-    <category lang="ar">ﻛﻮﻣﻴﺪﻱ</category>
-    <rating system="EG">
-      <value>5</value>
-    </rating>
+  <programme start="20200516155900 +0000" stop="20200516173400 +0000" channel="MBC2">
+    <title lang="ar">باد تيتشر</title>
+    <desc lang="ar">أحداث كوميدية تدور حول معلمة في المرحلة الثانوية سليطة اللسان، يقوم صديقها الذي يكبرها سنا وكان يغدقها بالنقود بهجرها، وسرعان ما تبدأ في التقرب من زميلها في العمل الأمر الذي يضعها في مواجهة مع مدرسة محبوبة لدى الجميع.(n)</desc>
+    <category lang="ar">كوميدي</category>
   </programme>
-  <programme start="20200516193000 -0400" stop="20200516200000 -0400" channel="MBC 2">
-    <title lang="ar">Action Zone</title>
-    <desc lang="ar">يقدم البرنامج أحدث الافلام التي تشهد عروضها اﻷولى في دور العرض العالمية، والمشاهد التي حيرت الجماهير في الأفلام، باﻹضافة إلى العديد من المقابلات الحصرية.(n)</desc>
-    <rating system="EG">
-      <value>6.3</value>
-    </rating>
+  <programme start="20200516173400 +0000" stop="20200516175900 +0000" channel="MBC2">
+    <title lang="ar">ميكنج ذا موفيز</title>
+    <desc lang="ar">من خلال عرض قصص حصرية، يسلط هذا المسلسل الضوء على كيفية صنع الأفلام من الألف للياء، ابتداء من التقنيات الرائعة والمواضيع الشيقة وانتهاء بآخر صيحات الإنتاج في هوليوود.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200516175900 +0000" stop="20200516200000 +0000" channel="MBC2">
+    <title lang="ar">ذا هيت</title>
+    <desc lang="ar">العميلة الخاصة في مكتب التحقيقات الفيدرالي سارة أشبرون والشرطية العاملة في ولاية بوسطن شانون مولينز متعارضتان تماماً. لكن بعد توحيد جهودهما لإلقاء القبض على تاجر مخدرات لا يعرف الرحمة، تصبحان آخر شيء يمكن توقعه: صديقتين.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200516200000 +0000" stop="20200516215900 +0000" channel="MBC2">
+    <title lang="ar">باد مومز</title>
+    <desc lang="ar">بعد أن سئمت من ضغوط العمل وتراكم التزاماتها وشعورها بالإرهاق إلى درجة لا تحتمل، تنضم إيمي إلى والدتين أخريين تعيشان التجربة ذاتها في سعي إلى كسر قيودهن وتحرير أنفسهن من المسؤوليات التقليدية.(n)</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20200516215900 +0000" stop="20200516233400 +0000" channel="MBC2">
+    <title lang="ar">فيكيشن</title>
+    <desc lang="ar">سائرا على خطى والده وفي داخله رغبة عارمة بتوطيد الترابط العائلي، يفاجئ راستي زوجته وابنيهما برحلة سيئة عبر البلاد إلى مدينة ألعاب والي وورلد قبل إغلاقها إلى الأبد.(n)</desc>
+    <category lang="ar">مغامرة</category>
+  </programme>
+  <programme start="20200516233400 +0000" stop="20200517020000 +0000" channel="MBC2">
+    <title lang="ar">أكشن زون</title>
+    <desc lang="ar">برنامج يبقيك على اطلاع دائم حول أحدث الأفلام وأكبر العروض الأولى في العالم، بالإضافة إلى المقابلات الحصرية حيث يخبرنا النجوم عن السبب الذي سيدفع بنا لنشاهد أفلامهم الجديدة.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200517020000 +0000" stop="20200517033000 +0000" channel="MBC2">
+    <title lang="ar">هيركيوليز</title>
+    <desc lang="ar">بعد استكماله لمهامه الأسطورية الاثنتي عشرة، يصبح نصف الإله الإغريقي هرقل مرتزقاً. ولكن نمط الحياة هذا يوضع تحت الاختبار عندما يطلب ملك إقليم تراقيا المحب للخير وابنته مساعدة هرقل لهزيمة أمير حرب مستبد.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200517033000 +0000" stop="20200517055900 +0000" channel="MBC2">
+    <title lang="ar">ترانسفورمرز: دارك أوف ذا مون</title>
+    <desc lang="ar">يهدد حدث غامض من ماضي الأرض بإشعال فتيل حرب مدمرة ستجعل فريق ترانسفورمرز عاجزاً عن إنقاذ الكوكب لوحده. الآن على ويتويكي والأوتوبوت خوض قتال شرس في سبيل حماية عالمنا من شر الديسيبتيكون.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200517055900 +0000" stop="20200517080400 +0000" channel="MBC2">
+    <title lang="ar">ذا مامي ريتيرنز</title>
+    <desc lang="ar">يتم شحن جثة إمحوتب المحنطة إلى متحف في لندن، حيث يستيقظ مرة أخرى هناك ويبدأ حملة من الغضب والرعب.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200517080400 +0000" stop="20200517082900 +0000" channel="MBC2">
+    <title lang="ar">#647</title>
+    <desc lang="ar">يعتبر البرنامج بمثابة دليل يرشدنا إلى عمق عالم الأفلام، لتنبض هوليوود بالحياة على الشاشة الصغيرة!(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200517082900 +0000" stop="20200517105900 +0000" channel="MBC2">
+    <title lang="ar">أبولو 13</title>
+    <desc lang="ar">عندما يهدد تسرب للوقود باحتجاز ثلاثة رواد في الفضاء، يتعين على الطاقم المتواجد على سطح الأرض وفريق البعثة الكفاح من أجل تجنب وقوع كارثة.(n)</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20200517105900 +0000" stop="20200517112900 +0000" channel="MBC2">
+    <title lang="ar">سيليبريتي سكوب</title>
+    <desc lang="ar">نسلط الضوء على أكثر الفنانين إثارة في عالم الأفلام والموسيقى والأزياء والبرامج التلفزيونية، ونتحدث عن أكثر الأسرار التي يحتضنها النجوم خصوصية، بالإضافة إلى المصممين المفضلين لديهم ومعلومات عن الجمال ونمط معيشتهم وأخيراً حياتهم العاطفية.(n)</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20200517112900 +0000" stop="20200517130400 +0000" channel="MBC2">
+    <title lang="ar">باد تيتشر</title>
+    <desc lang="ar">أحداث كوميدية تدور حول معلمة في المرحلة الثانوية سليطة اللسان، يقوم صديقها الذي يكبرها سنا وكان يغدقها بالنقود بهجرها، وسرعان ما تبدأ في التقرب من زميلها في العمل الأمر الذي يضعها في مواجهة مع مدرسة محبوبة لدى الجميع.(n)</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20200517130400 +0000" stop="20200517133000 +0000" channel="MBC2">
+    <title lang="ar">أكشن زون</title>
+    <desc lang="ar">برنامج يبقيك على اطلاع دائم حول أحدث الأفلام وأكبر العروض الأولى في العالم، بالإضافة إلى المقابلات الحصرية حيث يخبرنا النجوم عن السبب الذي سيدفع بنا لنشاهد أفلامهم الجديدة.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200517133000 +0000" stop="20200517153000 +0000" channel="MBC2">
+    <title lang="ar">ذي إنترناشونال</title>
+    <desc lang="ar">وكيل في الإنتربول يعمل على كشف وفضح دور مؤسسة مالية رفيعة المستوى متورطة في حلقة دولية لتجارة الأسلحة.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200517153000 +0000" stop="20200517180000 +0000" channel="MBC2">
+    <title lang="ar">باتريوتس ديه</title>
+    <desc lang="ar">في أعقاب هجوم إرهابي شنيع، ينضم رقيب الشرطة تومي سوندرز إلى الناجين الشجعان وأول المستجيبين والمحققين في سباق مع الزمن للقبض على الإرهابيين قبل تنفيذهم لعملية أخرى.(n)</desc>
+    <category lang="ar">جريمة</category>
+  </programme>
+  <programme start="20200517180000 +0000" stop="20200517183000 +0000" channel="MBC2">
+    <title lang="ar">سكووب مع ريا</title>
+    <desc lang="ar">يعتبر البرنامج بمثابة وجهة هوليوود الأولى في إيصال آخر أخبار الأفلام إلى العالم العربي، حيث تتيح لنا ريا الوصول إلى ألمع نجوم الأفلام السينمائية، وتبقينا على اطلاع دائم بآخر أخبار هوليوود.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200517183000 +0000" stop="20200517203000 +0000" channel="MBC2">
+    <title lang="ar">أميريكان ميد</title>
+    <desc lang="ar">أحداث مبنية على القصة الحقيقية والمذهلة لباري سيل، وهو مهرب ممنوعات وطيار سطع نجمه في حقبة الثمانينات تم تجنيده من قبل وكالة المخابرات المركزية لينفذ واحدة من أضخم العمليات السرية في تاريخ الولايات المتحدة الأمريكية.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200517203000 +0000" stop="20200517223000 +0000" channel="MBC2">
+    <title lang="ar">جولد</title>
+    <desc lang="ar">كيني ويلز هو منقب معاصر، محتال وحالم، متعطش لضربة حظ. الآن ومع افتقاره للخيارات، ينضم إلى عالم جيولوجي في مهمة ومحاولة أخيرة للعثور على ذهب يقبع في عمق غابة أندونيسية مجهولة.(n)</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20200517223000 +0000" stop="20200517235900 +0000" channel="MBC2">
+    <title lang="ar">ذا نايت بيفور هالوين</title>
+    <desc lang="ar">تؤدي نهاية مأساوية لمقلب قامت ميجان وأصدقائها بتنفيذه، إلى إطلاق عنان مخلوق لن يتوقف حتى يقتل كل شخص شارك فيه، إلا في حال تمكنوا من نقل اللعنة إلى شخص آخر.(n)</desc>
+    <category lang="ar">رعب</category>
+  </programme>
+  <programme start="20200517235900 +0000" stop="20200519060000 +0000" channel="MBC2">
+    <title lang="ar">فيندير بيندر</title>
+    <desc lang="ar">بعد تعرضها لحادث سير بسيط، تتبادل هيلاري التي تبلغ من العمر 17 عاما معلوماتها الشخصية مع الرجل الذي أقر بخطئه، لكنها سرعان ما تتلقى زيارة منه في ليلة مليئة بالرعب.(n)</desc>
+    <category lang="ar">رعب</category>
+  </programme>
+  <programme start="20200519060000 +0000" stop="20200519080000 +0000" channel="MBC2">
+    <title lang="ar">ذا مامي</title>
+    <desc lang="ar">على الرغم من اعتقاد الجميع بأن جثتها تقبع بأمان في سرداب عميق تحت رمال الصحراء، تنهض المومياء، وهي ملكة تاريخية سلب منها مصيرها ظلما، من ثباتها في عصرنا الحالي جالبة معها حقدا دفينا نمى على مر العصور ورعباً لا يتصوره عقل بشري.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200519080000 +0000" stop="20200519100000 +0000" channel="MBC2">
+    <title lang="ar">ذا فيفث ويف</title>
+    <desc lang="ar">عندما يصبح الجنس البشري على شفير الانقراض، تنطلق فتاة شابة استثنائية، وهي أحد آخر الناجين على كوكب الأرض، في مهمة لتقفي أثر شقيقها الأصغر بعد أن تعرض للاختطاف على يد كائنات فضائية تستعمر الأرض.(n)</desc>
+    <category lang="ar">خيالي علمي</category>
+  </programme>
+  <programme start="20200519100000 +0000" stop="20200519103000 +0000" channel="MBC2">
+    <title lang="ar">#647</title>
+    <desc lang="ar">يعتبر البرنامج بمثابة دليل يرشدنا إلى عمق عالم الأفلام، لتنبض هوليوود بالحياة على الشاشة الصغيرة!(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200519103000 +0000" stop="20200519123000 +0000" channel="MBC2">
+    <title lang="ar">جوبيتير جونز</title>
+    <desc lang="ar">عندما يقوم كاين، وهو صياد عسكري سابق معدل وراثيا، بتعقب فتاة مضطهدة تدعى جوبيتير جونز، سرعان ما تبدأ الأخيرة في تأمل المصير الذي ينتظرها: وريثة اسثنائية مرتقبة قد تتمكن من إحداث تغيير في توازن الكون.(n)</desc>
+    <category lang="ar">خيالي علمي</category>
+  </programme>
+  <programme start="20200519123000 +0000" stop="20200519130000 +0000" channel="MBC2">
+    <title lang="ar">إنترتاينمنت تونايت</title>
+    <desc lang="ar">مجموعة من الأخبار الترفيهية والمتنوعة عن المشاهير والسينما والتلفزيون والموسيقى والأزياء وعروض الجوائز والمناسبات الخاصة بشكل رائد وشيق.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200519130000 +0000" stop="20200519150000 +0000" channel="MBC2">
+    <title lang="ar">دوبلسيتي</title>
+    <desc lang="ar">يتحد عاشقان يعملان كجاسوسين لدى شركات خاصة سوياً لرسم خطة محكمة لخداع الشركات المنافسة. ولكن في لعبة الشركات حيث لا يمكن الوثوق بأحد، يصعب عليهما أن يحلما بالثقة ببعضهما البعض.(n)</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20200519150000 +0000" stop="20200519153000 +0000" channel="MBC2">
+    <title lang="ar">أكشن زون</title>
+    <desc lang="ar">برنامج يبقيك على اطلاع دائم حول أحدث الأفلام وأكبر العروض الأولى في العالم، بالإضافة إلى المقابلات الحصرية حيث يخبرنا النجوم عن السبب الذي سيدفع بنا لنشاهد أفلامهم الجديدة.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200519153000 +0000" stop="20200519173000 +0000" channel="MBC2">
+    <title lang="ar">مان أون إيه ليدج</title>
+    <desc lang="ar">من على حافة الطابق الخامس عشر في إحدى ناطحات سحاب مدينة نيويورك، حيث خطوة واحدة خاطئة تعني الموت، يتعين على نك كاسيدي المحاصر تنسيق خطة خطيرة لإثبات براءته من جريمة لم يرتكبها.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200519173000 +0000" stop="20200519200000 +0000" channel="MBC2">
+    <title lang="ar">ذا إكويلايزر</title>
+    <desc lang="ar">يضطر قائد عمليات سرية سابق، كان قد زيف وفاته ليعيش حياة هادئة في بوسطن، إلى ترك تقاعده في سبيل إنقاذ فتاة شابة تدعى تيري، وسرعان ما يجد نفسه وجهاً لوجه أمام عصابات روسية.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200519200000 +0000" stop="20200519220000 +0000" channel="MBC2">
+    <title lang="ar">ذا تاون</title>
+    <desc lang="ar">يقع مجرم في غرام مديرة بنك قام باحتجازها، لكن يحدث ما لم يكن في الحسبان وينشأ مثلث حب محفوف بالمخاطر عند وصول عميل من مكتب التحقيقات الفيدرالي المفتون بمديرة البنك أيضاً، أثناء سعيه لتطبيق العدالة.(n)</desc>
+    <category lang="ar">جريمة</category>
+  </programme>
+  <programme start="20200519220000 +0000" stop="20200519223000 +0000" channel="MBC2">
+    <title lang="ar">سيليبريتي سكوب</title>
+    <desc lang="ar">نسلط الضوء على أكثر الفنانين إثارة في عالم الأفلام والموسيقى والأزياء والبرامج التلفزيونية، ونتحدث عن أكثر الأسرار التي يحتضنها النجوم خصوصية، بالإضافة إلى المصممين المفضلين لديهم ومعلومات عن الجمال ونمط معيشتهم وأخيراً حياتهم العاطفية.(n)</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20200519223000 +0000" stop="20200520003000 +0000" channel="MBC2">
+    <title lang="ar">شوت كولير</title>
+    <desc lang="ar">يُجبر سجين أطلق سراحه مؤخرا من قبل زعماء عصابته على تنظيم جريمة كبرى مع عصابة دموية منافسة في شوارع جنوب كاليفورنيا.(n)</desc>
+    <category lang="ar">جريمة</category>
+  </programme>
+  <programme start="20200520003000 +0000" stop="20200520023000 +0000" channel="MBC2">
+    <title lang="ar">10كلوفرفيلد لين</title>
+    <desc lang="ar">بعد تعرضها لحادث سير، تستيقظ فتاة شابة من غيبوبتها وتجد نفسها أسفل قبو منزل رجل يدعي بأنه قام بإنقاذها من هجوم كيماوي خلف وراءه بيئة ملوثة لا تصلح لأن يعيش فيها البشر.(n)</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20200520023000 +0000" stop="20200520041500 +0000" channel="MBC2">
+    <title lang="ar">ريبو مين</title>
+    <desc lang="ar">يقوم وكيل استرجاع ملكية بتعقب عملاء لم يعد بإمكانهم دفع أقساط لقاء أعضائهم المزروعة، لكن سرعان ما ينقلب السحر على الساحر ويصبح مديوناً ومطارداً بعد تعرضه لحادث أجبره على الخضوع لزراعة قلب جديد.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200520041500 +0000" stop="20200520060000 +0000" channel="MBC2">
+    <title lang="ar">إكس ماشينا</title>
+    <desc lang="ar">يفوز مبرمج يدعى كيليب بمنافسة جائزتها قضاء أسبوع في ملاذ جبلي خاص، ويكتشف لاحقاً بأن عليه المشاركة في تجربة غريبة ومذهلة يتواصل من خلالها مع فتاة آلية جميلة.(n)</desc>
+    <category lang="ar">خيالي علمي</category>
+  </programme>
+  <programme start="20200520060000 +0000" stop="20200520080000 +0000" channel="MBC2">
+    <title lang="ar">دوبلسيتي</title>
+    <desc lang="ar">يتحد عاشقان يعملان كجاسوسين لدى شركات خاصة سوياً لرسم خطة محكمة لخداع الشركات المنافسة. ولكن في لعبة الشركات حيث لا يمكن الوثوق بأحد، يصعب عليهما أن يحلما بالثقة ببعضهما البعض.(n)</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20200520080000 +0000" stop="20200520100000 +0000" channel="MBC2">
+    <title lang="ar">نوتينج هيل</title>
+    <desc lang="ar">يلعب القدر دور البطولة في حياة شخصين ويجمع بينهما عندما يقوم مالك مكتبة إنجليزي متواضع بسكب عصير البرتقال على إحدى زبوناته عن طريق الخطأ تبين لاحقاً بأنها البطلة السينمائية الأكثر شعبية في أمريكا.(n)</desc>
+    <category lang="ar">رومانسي</category>
+  </programme>
+  <programme start="20200520100000 +0000" stop="20200520120000 +0000" channel="MBC2">
+    <title lang="ar">مان أون إيه ليدج</title>
+    <desc lang="ar">من على حافة الطابق الخامس عشر في إحدى ناطحات سحاب مدينة نيويورك، حيث خطوة واحدة خاطئة تعني الموت، يتعين على نك كاسيدي المحاصر تنسيق خطة خطيرة لإثبات براءته من جريمة لم يرتكبها.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200520120000 +0000" stop="20200520140000 +0000" channel="MBC2">
+    <title lang="ar">كاسينو جاك</title>
+    <desc lang="ar">يذهب عضو بارع في إحدى جماعات الضغط السياسي يعمل في العاصمة واشنطن وتلميذه بعيداً نحو الهاوية، بعدما قادتهما مخططاتهما لاستغلال نفوذهما للفساد والجريمة.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200520140000 +0000" stop="20200520143000 +0000" channel="MBC2">
+    <title lang="ar">إنترتاينمنت تونايت</title>
+    <desc lang="ar">مجموعة من الأخبار الترفيهية والمتنوعة عن المشاهير والسينما والتلفزيون والموسيقى والأزياء وعروض الجوائز والمناسبات الخاصة بشكل رائد وشيق.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200520143000 +0000" stop="20200520160000 +0000" channel="MBC2">
+    <title lang="ar">هوتيل ترانسيلفانيا</title>
+    <desc lang="ar">يدخل دراكولا الذي يدير منتجعاً راقياً بعيداً عن عالم البشر في حالة دفاعية عندما يكتشف صبي المنتجع ويقع في حب ابنة الكونت المراهقة.(n)</desc>
+    <category lang="ar">رسوم متحركة</category>
+  </programme>
+  <programme start="20200520160000 +0000" stop="20200520173000 +0000" channel="MBC2">
+    <title lang="ar">هوتيل ترانسيلفانيا 2</title>
+    <desc lang="ar">عندما يبدأ دراك بالقلق على حفيده دنيس نصف البشري نصف مصاص الدماء لأنه لا يظهر أي علامات تدل على أنه مصاص دماء، يقرر تجميع أصدقائه مصاصي الدماء فرانك وموريه وواين وجريفين وذلك ليقوموا بتشكيل مخيم تدريب على الطرق الوحشيه وضم دنيس له.(n)</desc>
+    <category lang="ar">رسوم متحركة</category>
+  </programme>
+  <programme start="20200520173000 +0000" stop="20200520180000 +0000" channel="MBC2">
+    <title lang="ar">أكشن زون</title>
+    <desc lang="ar">برنامج يبقيك على اطلاع دائم حول أحدث الأفلام وأكبر العروض الأولى في العالم، بالإضافة إلى المقابلات الحصرية حيث يخبرنا النجوم عن السبب الذي سيدفع بنا لنشاهد أفلامهم الجديدة.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200520180000 +0000" stop="20200520200000 +0000" channel="MBC2">
+    <title lang="ar">ذا توايلايت ساجا: إيكليبس</title>
+    <desc lang="ar">بيلا سوان محاطة بالخطر من كل جانب وخاصة عندما تهتز سياتل على وقع عدة جرائم قتل، بالإضافة إلى كونها لا زالت مطاردة من قبل مصاصة دماء شرسة تسعى للانتقام، وفي خضم هذا كله تجد نفسها مجبرة على الاختيار بين حبيبها إدوارد وصديقها المقرب جيكوب.(n)</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20200520200000 +0000" stop="20200520203000 +0000" channel="MBC2">
+    <title lang="ar">سيليبريتي سكوب</title>
+    <desc lang="ar">نسلط الضوء على أكثر الفنانين إثارة في عالم الأفلام والموسيقى والأزياء والبرامج التلفزيونية، ونتحدث عن أكثر الأسرار التي يحتضنها النجوم خصوصية، بالإضافة إلى المصممين المفضلين لديهم ومعلومات عن الجمال ونمط معيشتهم وأخيراً حياتهم العاطفية.(n)</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20200520203000 +0000" stop="20200520223000 +0000" channel="MBC2">
+    <title lang="ar">دارك شادوز</title>
+    <desc lang="ar">بعد مرور قرنين من الزمن على قيام ساحرة بتحويله إلى مصاص دماء ودفنه حياً، يتم تحرير \" بارناباس\" عن غير قصد من قبره ليعود إلى موطن أجداده ويكتشف مدى الخراب والدمار والحاجة لحمايته.(n)</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20200520223000 +0000" stop="20200521000000 +0000" channel="MBC2">
+    <title lang="ar">دراكولا أنتولد</title>
+    <desc lang="ar">عندما يدرك بأن حياة ابنه وزوجته معرضة للخطر من قبل سلطان متعطش للدماء، يقوم أمير شاب بالمخاطرة بروحه في سبيل إنقاذهما، وفي خضم ذلك يبدأ تحوله الأبدي والمأساوي لمصاص دماء شائن.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200521000000 +0000" stop="20200521020000 +0000" channel="MBC2">
+    <title lang="ar">ذا تاون</title>
+    <desc lang="ar">يقع مجرم في غرام مديرة بنك قام باحتجازها، لكن يحدث ما لم يكن في الحسبان وينشأ مثلث حب محفوف بالمخاطر عند وصول عميل من مكتب التحقيقات الفيدرالي المفتون بمديرة البنك أيضاً، أثناء سعيه لتطبيق العدالة.(n)</desc>
+    <category lang="ar">جريمة</category>
+  </programme>
+  <programme start="20200521020000 +0000" stop="20200521023000 +0000" channel="MBC2">
+    <title lang="ar">#647</title>
+    <desc lang="ar">يعتبر البرنامج بمثابة دليل يرشدنا إلى عمق عالم الأفلام، لتنبض هوليوود بالحياة على الشاشة الصغيرة!(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200521023000 +0000" stop="20200521045500 +0000" channel="MBC2">
+    <title lang="ar">ذا إكويلايزر</title>
+    <desc lang="ar">يضطر قائد عمليات سرية سابق، كان قد زيف وفاته ليعيش حياة هادئة في بوسطن، إلى ترك تقاعده في سبيل إنقاذ فتاة شابة تدعى تيري، وسرعان ما يجد نفسه وجهاً لوجه أمام عصابات روسية.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200521045500 +0000" stop="20200521063000 +0000" channel="MBC2">
+    <title lang="ar">مان أون إيه ليدج</title>
+    <desc lang="ar">من على حافة الطابق الخامس عشر في إحدى ناطحات سحاب مدينة نيويورك، حيث خطوة واحدة خاطئة تعني الموت، يتعين على نك كاسيدي المحاصر تنسيق خطة خطيرة لإثبات براءته من جريمة لم يرتكبها.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200521063000 +0000" stop="20200521083000 +0000" channel="MBC2">
+    <title lang="ar">دارك شادوز</title>
+    <desc lang="ar">بعد مرور قرنين من الزمن على قيام ساحرة بتحويله إلى مصاص دماء ودفنه حياً، يتم تحرير \" بارناباس\" عن غير قصد من قبره ليعود إلى موطن أجداده ويكتشف مدى الخراب والدمار والحاجة لحمايته.(n)</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20200521083000 +0000" stop="20200521090000 +0000" channel="MBC2">
+    <title lang="ar">#648</title>
+    <desc lang="ar">يعتبر البرنامج بمثابة دليل يرشدنا إلى عمق عالم الأفلام، لتنبض هوليوود بالحياة على الشاشة الصغيرة!(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200521090000 +0000" stop="20200521110000 +0000" channel="MBC2">
+    <title lang="ar">ذا توايلايت ساجا: إيكليبس</title>
+    <desc lang="ar">بيلا سوان محاطة بالخطر من كل جانب وخاصة عندما تهتز سياتل على وقع عدة جرائم قتل، بالإضافة إلى كونها لا زالت مطاردة من قبل مصاصة دماء شرسة تسعى للانتقام، وفي خضم هذا كله تجد نفسها مجبرة على الاختيار بين حبيبها إدوارد وصديقها المقرب جيكوب.(n)</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20200521110000 +0000" stop="20200521113000 +0000" channel="MBC2">
+    <title lang="ar">أكشن زون</title>
+    <desc lang="ar">برنامج يبقيك على اطلاع دائم حول أحدث الأفلام وأكبر العروض الأولى في العالم، بالإضافة إلى المقابلات الحصرية حيث يخبرنا النجوم عن السبب الذي سيدفع بنا لنشاهد أفلامهم الجديدة.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200521113000 +0000" stop="20200521130000 +0000" channel="MBC2">
+    <title lang="ar">دراكولا أنتولد</title>
+    <desc lang="ar">عندما يدرك بأن حياة ابنه وزوجته معرضة للخطر من قبل سلطان متعطش للدماء، يقوم أمير شاب بالمخاطرة بروحه في سبيل إنقاذهما، وفي خضم ذلك يبدأ تحوله الأبدي والمأساوي لمصاص دماء شائن.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200521130000 +0000" stop="20200521133000 +0000" channel="MBC2">
+    <title lang="ar">إنترتاينمنت تونايت</title>
+    <desc lang="ar">مجموعة من الأخبار الترفيهية والمتنوعة عن المشاهير والسينما والتلفزيون والموسيقى والأزياء وعروض الجوائز والمناسبات الخاصة بشكل رائد وشيق.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200521133000 +0000" stop="20200521160000 +0000" channel="MBC2">
+    <title lang="ar">سباي جايم</title>
+    <desc lang="ar">بعد تعرض مهمة غير مصرح بها وفي غاية السرية لفشل ذريع، يتم القبض على توم بيشوب العميل بوكالة المخابرات المركزية ويحكم عليه بالموت. وأمام مديره ناثان مير أربع وعشرين ساعة فقط لإنقاذ صديقه، وخوض معركتين واحدة ضد الأعداء بينما الأخرى داخل الوكالة.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200521160000 +0000" stop="20200521180000 +0000" channel="MBC2">
+    <title lang="ar">ذا تورست</title>
+    <desc lang="ar">خلال رحلة غير مخطط لها مسبقاً إلى أوروبا في محاولة للتعافي من تجربه حب فاشلة، يجمع القدر فرانك مع إليز، السيدة الاستثنائية التي تعترض طريقه عمداً.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200521180000 +0000" stop="20200521200000 +0000" channel="MBC2">
+    <title lang="ar">ذا مان فروم يو.إن.سي.إل.إي</title>
+    <desc lang="ar">يضطر عميلان سريان إلى وضع خلافاتهما التي امتدت إلى فترة من الزمن والعمل سويا على إحباط مخططات منظمة إجرامية دولية غامضة تهدف إلى زعزعة استقرار توازن القوى الهشة من خلال سعيها إلى انتشار الأسلحة النووية والتكنولوجية.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200521200000 +0000" stop="20200521220000 +0000" channel="MBC2">
+    <title lang="ar">كينجزمان: ذا سيكريت سيرفس</title>
+    <desc lang="ar">تقوم منظمة تجسس فائقة السرية بتجنيد مراهق شاب متسكع في حالة يرثى لها، لكن في المقابل ينتظره مستقبل واعد، في برنامج تدريبات شاقة عندما يقوم خبير في التكنولوجيا غريب الأطوار بتهديد العالم.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200521220000 +0000" stop="20200521223000 +0000" channel="MBC2">
+    <title lang="ar">سيليبريتي سكوب</title>
+    <desc lang="ar">نسلط الضوء على أكثر الفنانين إثارة في عالم الأفلام والموسيقى والأزياء والبرامج التلفزيونية، ونتحدث عن أكثر الأسرار التي يحتضنها النجوم خصوصية، بالإضافة إلى المصممين المفضلين لديهم ومعلومات عن الجمال ونمط معيشتهم وأخيراً حياتهم العاطفية.(n)</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20200521223000 +0000" stop="20200523063000 +0000" channel="MBC2">
+    <title lang="ar">فاينل دستينايشن 5</title>
+    <desc lang="ar">يعود الموت من جديد في جولة أخرى لن تنسى، حيث حاصد الأرواح على يقين بأن يومه سيكون حافلاً بسلسلة أحداث مميتة بما فيها انهيار جسر معلق ونهاية مأساوية لجراحة عين بالليزر وطرق أخرى متحايلة وذكية ستؤدي إلى الهلاك.(n)</desc>
+    <category lang="ar">رعب</category>
+  </programme>
+  <programme start="20200523063000 +0000" stop="20200523083000 +0000" channel="MBC2">
+    <title lang="ar">سمول سولدجرز</title>
+    <desc lang="ar">يتورط مراهق وعائلته في حرب بين ألعاب على هيئة جنود شريرة ومجسمات ألعاب متحركة.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200523083000 +0000" stop="20200523090000 +0000" channel="MBC2">
+    <title lang="ar">أكشن زون</title>
+    <desc lang="ar">برنامج يبقيك على اطلاع دائم حول أحدث الأفلام وأكبر العروض الأولى في العالم، بالإضافة إلى المقابلات الحصرية حيث يخبرنا النجوم عن السبب الذي سيدفع بنا لنشاهد أفلامهم الجديدة.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200523090000 +0000" stop="20200523110000 +0000" channel="MBC2">
+    <title lang="ar">دنكيرك</title>
+    <desc lang="ar">يجد مئات الآلاف من جنود القوات البريطانية والحلفاء أنفسهم محاطين بقوات معادية في مدينة فرنسية شمالية خلال الحرب العالمية الثانية. الآن وقد باتو محاصرين على ضفاف الشاطئ والبحر من ورائهم، يواجهون وضعا مستحيلا مع دنو العدو.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200523110000 +0000" stop="20200523113000 +0000" channel="MBC2">
+    <title lang="ar">#648</title>
+    <desc lang="ar">يعتبر البرنامج بمثابة دليل يرشدنا إلى عمق عالم الأفلام، لتنبض هوليوود بالحياة على الشاشة الصغيرة!(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200523113000 +0000" stop="20200523133000 +0000" channel="MBC2">
+    <title lang="ar">ذي إميتيشن جايم</title>
+    <desc lang="ar">سباق مشوق ضد الزمن يتتبع آلان تورنج – الذي يعود له الفضل في فك شيفرة إنجما الألمانية – وفريقه اللامع في المقر البريطاني الأكثر سرية لعمليات فك الشيفرة يطلق عليه اسم بلتشلي بارك، خلال أحلك أيام الحرب العالمية الثانية.(n)</desc>
+    <category lang="ar">سيرة ذاتية</category>
+  </programme>
+  <programme start="20200523133000 +0000" stop="20200523140000 +0000" channel="MBC2">
+    <title lang="ar">إنترتاينمنت تونايت</title>
+    <desc lang="ar">مجموعة من الأخبار الترفيهية والمتنوعة عن المشاهير والسينما والتلفزيون والموسيقى والأزياء وعروض الجوائز والمناسبات الخاصة بشكل رائد وشيق.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200523140000 +0000" stop="20200523153000 +0000" channel="MBC2">
+    <title lang="ar">إيه بيجينيرز جايد تو إيندينجز</title>
+    <desc lang="ar">عقب سماعهم أن عدد السنوات التي سيعيشونها قد تقلص بشكل كبير، يعود ثلاثة أشقاء إلى موطنهم للتكفير عن حياة كاملة من الأخطاء خلال يوم واحد.(n)</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20200523153000 +0000" stop="20200523160000 +0000" channel="MBC2">
+    <title lang="ar">سيليبريتي سكوب</title>
+    <desc lang="ar">نسلط الضوء على أكثر الفنانين إثارة في عالم الأفلام والموسيقى والأزياء والبرامج التلفزيونية، ونتحدث عن أكثر الأسرار التي يحتضنها النجوم خصوصية، بالإضافة إلى المصممين المفضلين لديهم ومعلومات عن الجمال ونمط معيشتهم وأخيراً حياتهم العاطفية.(n)</desc>
+    <category lang="ar">ترفيه</category>
+  </programme>
+  <programme start="20200523160000 +0000" stop="20200523180000 +0000" channel="MBC2">
+    <title lang="ar">ذا باكت ليست</title>
+    <desc lang="ar">يقرر رجلان مريضان ميؤوس من شفائهما الهرب من جناح مرضى السرطان في المستشفى والشروع في رحلة ويأخذان معهما قائمة تشمل كل الأشياء التي يريدان تحقيقها قبل موتهما.(n)</desc>
+    <category lang="ar">مغامرة</category>
+  </programme>
+  <programme start="20200523180000 +0000" stop="20200523200000 +0000" channel="MBC2">
+    <title lang="ar">تاور هايست</title>
+    <desc lang="ar">يقود مدير شقق فاخرة فريقاً من العاملين في مهمة للانتقام من أحد مخادعي بورصة وول ستريت بعد أن احتال عليهم ويستعين بمساعدة أحد المحتالين لسرقة عشرين مليون دولار تم إخفاؤها داخل شقته.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200523200000 +0000" stop="20200523220000 +0000" channel="MBC2">
+    <title lang="ar">ذا إنتيرن</title>
+    <desc lang="ar">يكتشف أرمل يبلغ من العمر سبعين عاما أن التقاعد ليس كما كان يعتقد. وفي سبيل اقتناص فرصة تمكنه من النهوض بنفسه من جديد، يصبح متدربا متقدما في السن لدى شركة تدير موقعا على الإنترنت يختص بالأزياء أسسته وتديره جول أوستن.(n)</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20200523220000 +0000" stop="20200523223000 +0000" channel="MBC2">
+    <title lang="ar">ميكنج ذا موفيز</title>
+    <desc lang="ar">من خلال عرض قصص حصرية، يسلط هذا المسلسل الضوء على كيفية صنع الأفلام من الألف للياء، ابتداء من التقنيات الرائعة والمواضيع الشيقة وانتهاء بآخر صيحات الإنتاج في هوليوود.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200523223000 +0000" stop="20200524003000 +0000" channel="MBC2">
+    <title lang="ar">لاست فيغاس</title>
+    <desc lang="ar">يجتمع أربعة متقاعدين في لاس فيغاس لإقامة حفل توديع العزوبية على شرف صديقهم المعروف عنه بأنه زير نساء.(n)</desc>
+    <category lang="ar">كوميدي</category>
   </programme>
   <programme start="20200516001400 +0000" stop="20200516022000 +0000" channel="MBC4">
     <title lang="ar">أحلى صوت</title>
@@ -2202,12 +2446,6 @@
     <desc lang="ar">يصدر رودولفو قراراً يسمح لكاتالينا بالتجول في أروقة القصر، ويفاجئ الجميع لاحقاً بإعلانه عن رغبته بالزواج منها، الأمر الذي يثير غضب الشعب.(n)</desc>
     <category lang="ar">دراما</category>
   </programme>
-  <programme start="20200516042400 -0400" stop="20200516050000 -0400" channel="MBC Action">
-    <title lang="ar">برنامج ذي إنسايد لاين</title>
-  </programme>
-  <programme start="20200516050000 -0400" stop="20200516052200 -0400" channel="MBC Action">
-    <title lang="ar">ﺑﺮﻧﺎﻣﺞ إبيك تريلز</title>
-  </programme>
   <programme start="20200516052200 -0400" stop="20200516060000 -0400" channel="MBC Action">
     <title lang="ar">ﺑﺮﻧﺎﻣﺞ إبيك تريلز</title>
   </programme>
@@ -2927,145 +3165,380 @@
       <value>7.5</value>
     </rating>
   </programme>
-  <programme start="20200516043000 -0400" stop="20200516063000 -0400" channel="MBC MAX">
-    <title lang="ar">Sherlock Holmes</title>
-    <desc lang="ar">السفاح الساحر (بلاك وود) يعود للحياة مرة اخرى، ويقوم بسلسلة من عمليات القتل العشوائي، فيعود أيضًا المخبر الأسطوري شارلوك هولمز لمواجهته بصحبة واتسون شريكه الدائم وضابط غبي من اسكوتلانديارد. This picture is an action mystery film based on Sir Arthur Conan Doyle’s character of the same name. Guy Ritchie directed this production. The leading roles are assumed by Robert Downey, Jr. and Jude Law who portray Sherlock Holmes and Dr. John Watson respectively. The film received two Academy Award nominations. In 1891 London, Sherlock Holmes and Dr. Watson succeed in preventing the ritual murder of a girl by Lord Blackwood (Mark Strong). Sherlock Holmes and Dr. Watson stop the murder just in time and Lord Blackwood is subsequently arrested. Lord Blackwood is sentenced to death by hanging but he requests to see Sherlock Holmes before his hanging. In his last meeting with Sherlock Holmes, Lord Blackwood warns of three more high profile murders that will follow his execution. Blackwood is then hanged and pronounced dead.(n)</desc>
-    <credits>
-      <director>جاي ريتشي</director>
-      <actor>روبرت داوني جونيور</actor>
-      <actor>جود لو</actor>
-      <actor>ريتشيل ماك آدامز</actor>
-      <actor>مارك سترونج</actor>
-      <actor>إيدي ماريسون</actor>
-      <actor>كيلي ريلي</actor>
-      <writer>مايكل روبرت جونسون</writer>
-      <writer>آرثر كونان دويل</writer>
-    </credits>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
-    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
-    <category lang="ar">ﺟﺮﻳﻤﺔ</category>
-    <category lang="ar">ﺩﺭاﻣﺎ</category>
-    <rating system="EG">
-      <value>8.2</value>
-    </rating>
+  <programme start="20200516013000 +0000" stop="20200516035900 +0000" channel="MBC Movie Max">
+    <title lang="ar">أنبروكن</title>
+    <desc lang="ar">القصة الحقيقية والمدهشة للاعب الأولمبي لويس زامبيريني الذي أصبح أسيراً، منذ أن كان لاعباً متألقاً في فريق العدائين الأمريكيين الذين شاركوا في أولمبياد برلين عام 1936، حتى نجاته من حادث تحطم طائرة مروع في المحيط الهادئ خلال الحرب العالمية الثانية.(n)</desc>
+    <category lang="ar">سيرة ذاتية</category>
   </programme>
-  <programme start="20200516063000 -0400" stop="20200516090000 -0400" channel="MBC MAX">
-    <title lang="ar">Sherlock Holmes: A Game of Shadows</title>
-    <desc lang="ar">شرلوك هولمز وصديقه الحميم الدكتور واطسون يسابقان الزمن لإيقاف خصمهما اللدود بروفيسور موريارتي من إشعال فتيل الحرب في أوربا. Once again, Sherlock Holmes defeats evil !! Sherlock Holmes -the smartest and funniest man in the room- together with his friend Dr. Watson try to bring down their fiercestst adversary, Professor Moriarty.(n)</desc>
-    <credits>
-      <director>جاي ريتشي</director>
-      <actor>ويليام هوستون</actor>
-      <actor>ريتشيل ماك آدامز</actor>
-      <actor>جاريد هاريس</actor>
-      <actor>جود لو</actor>
-      <actor>نومي راباس</actor>
-      <actor>كيلي ريلي</actor>
-      <writer>آرثر كونان دويل</writer>
-      <writer>كيران مولروني</writer>
-    </credits>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">ﺣﺮﻛﺔ</category>
-    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
-    <category lang="ar">ﺟﺮﻳﻤﺔ</category>
-    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
-    <rating system="EG">
-      <value>8.4</value>
-    </rating>
+  <programme start="20200516035900 +0000" stop="20200516060000 +0000" channel="MBC Movie Max">
+    <title lang="ar">هارتس وور</title>
+    <desc lang="ar">تجري أحداث الفيلم خلال الحرب العالمية الثانية، حيث يتم إلقاء القبض على طالب حقوق والذي صار ملازماً، وأصبح أسير حربٍ وقع في قبضة العدو.(n)</desc>
+    <category lang="ar">دراما</category>
   </programme>
-  <programme start="20200516090000 -0400" stop="20200516103000 -0400" channel="MBC MAX">
-    <title lang="ar">Cleaner</title>
-    <desc lang="ar">يتيقظ (جاك) ذات صباح ليجد نفسه مستلقياً على الأرض في غرفة أحد الفنادق، وبجواره جثة عميل فيدرالي، وحقيبة مليئة بالنقود، والأسوأ أنه لايتذكر أي شىء، يسارع بالهروب، ولكنه يقابل امرأة تدعى (دايان) تدعي أنها زوجته، وهو لايعلم عنها شيئاً، تطارده مجموعة من عصابات السلاح الدولية، وعملاء فيدراليون، فيحاول أن يكتشف هويته الحقيقية، ويكتشف ما يدور حوله لينجو من هذه المطبات.(n)</desc>
-    <credits>
-      <director>ريني هارلن</director>
-      <actor>صامويل إل. جاكسون</actor>
-      <actor>إد هاريس</actor>
-      <actor>إيفا ميندس</actor>
-      <actor>لويس جوزمان</actor>
-      <actor>كيكي بالمر</actor>
-      <writer>ماثيو ألدريتش</writer>
-    </credits>
+  <programme start="20200516060000 +0000" stop="20200516082900 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا كرونيكيلز أوف نارنيا</title>
+    <desc lang="ar">تقوم ساحرة شمطاء باستخدام قواها السحرية السوداء لتبقي مملكة نارنيا في الشتاء القارس لمدة مئة عام، فيقوم أربعة من البشر بمساعدة الأسد الشجاع أسلان بكسر تلك التعويذة، ومحاربة الساحرة لتحرير المملكة من شرها.(n)</desc>
+    <category lang="ar">مغامرة</category>
   </programme>
-  <programme start="20200516103000 -0400" stop="20200516110000 -0400" channel="MBC MAX">
-    <title lang="ar">Hollywood Buzz</title>
-    <desc lang="ar">يستعرض البرنامج أحدث اﻷخبار والتطورات عن الأفلام ومقابلات النجوم الجديدة والموضة في عاصمة السينما اﻷمريكية.(n)</desc>
+  <programme start="20200516082900 +0000" stop="20200516102900 +0000" channel="MBC Movie Max">
+    <title lang="ar">شرلوك هولمز</title>
+    <desc lang="ar">شرلوك هولمز الشهير بمحقق الاستشارات لديه سمعة جيدة في قدرته على حل الألغاز المعقدة جداً، ولكن الآن هناك تهديد يستهدف لندن مختلف تماماً عما واجهه هولمز في أي وقت مضى، ولكن ذلك هو التحدي الذي كان يبحث عنه.(n)</desc>
+    <category lang="ar">أكشن</category>
   </programme>
-  <programme start="20200516110000 -0400" stop="20200516130000 -0400" channel="MBC MAX">
-    <title lang="ar">Eagle Eye</title>
-    <desc lang="ar">تدور أحداث الفيلم حول جيري وراشيل يلتقيان في طريق بعضهما عن طريق مكالمة هاتفية غامضة من إمرأة لم يلتقيان بها أبدًا، تهدد حياتهم وتدفعهما إلى سلسلة من الخطورة وذلك بإستخدام التكنولوجيا الحديثة ومراقبة تحركاتهما بدقة، كما يفاجأ جيري بحدوث أشياء غريبة حيث تظهر ثروة في حسابه المصرفي، وأسلحة في شقته. Jerry and Rachel meet each other through a mysterious phone call from a woman they've never met, threatening their lives and pushing them into a chain of risky situations by using modern technology and carefully monitoring their movements.(n)</desc>
-    <credits>
-      <director>دي. جي. كاروسو</director>
-      <actor>روزاريو داوسون</actor>
-      <actor>ميشيل موناجان</actor>
-      <actor>شيا لابوف</actor>
-      <actor>مايكل شيكليس</actor>
-      <actor>أنتوني ماكي</actor>
-      <actor>إيثان إمبري</actor>
-      <writer>ترافيس رايت</writer>
-      <writer>جون جلين</writer>
-    </credits>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
-    <category lang="ar">ﺣﺮﻛﺔ</category>
-    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
-    <rating system="EG">
-      <value>5.9</value>
-    </rating>
+  <programme start="20200516102900 +0000" stop="20200516125900 +0000" channel="MBC Movie Max">
+    <title lang="ar">شرلوك هولمز: أجيم أوف شادوز</title>
+    <desc lang="ar">يجاري المحقق غير العادي شرلوك هولمز دهاء البروفيسور موريارتي المجرم العبقري والذي يتآمر لعمل ثروة طائلة عن طريق تصنيع الجيل القادم من الأسلحة في زمن الحرب والذي ستضطر القوى العظمى في العالم لاستخدامه ضد بعضها البعض.(n)</desc>
+    <category lang="ar">أكشن</category>
   </programme>
-  <programme start="20200516130000 -0400" stop="20200516143000 -0400" channel="MBC MAX">
-    <title lang="ar">Armored</title>
-    <desc lang="ar">تضطر الظروف الصعبة (تاي) للعمل حارسا شخصيا، فيحاول بعض من زملائه إقناعه بالانضمام لهم في عملية استيلاء على شاحنة تحمل ما يقرب من 42 مليون دولار، فيوافق في بدء الأمر؛ لكن مع إطلاق النيران على أحد رجال الشرطة، تبدأ الانقسامات، ويصرّ " تاي " على مساعدته. Ty Hackett is employed by a security company as part of one of their armored car transport teams. However, Hackett is finding it hard to make ends meet, and his friend, Mike Cochrane suggests a heist that will get them 42 million dollars.(n)</desc>
-    <credits>
-      <director>نيمرود انتال</director>
-      <actor>مات ديلون</actor>
-      <actor>جان رينو</actor>
-      <actor>لورنس فيشبورن</actor>
-      <actor>أماوري نولاسكو</actor>
-      <actor>فريد وارد</actor>
-      <actor>ميلو فينتميليا</actor>
-      <writer>جيمس ف سيمبسون</writer>
-    </credits>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
-    <category lang="ar">ﺩﺭاﻣﺎ</category>
-    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
-    <rating system="EG">
-      <value>4.3</value>
-    </rating>
+  <programme start="20200516125900 +0000" stop="20200516143200 +0000" channel="MBC Movie Max">
+    <title lang="ar">كلينر</title>
+    <desc lang="ar">تنقلب حياة رجل مختص في تنظيف مسرح الجريمة رأساً على عقب عندما يقوم بإزالة دليل على جريمة قتل قبل أن يتم الإبلاغ عنها.(n)</desc>
+    <category lang="ar">إثارة</category>
   </programme>
-  <programme start="20200516143000 -0400" stop="20200516150000 -0400" channel="MBC MAX">
-    <title lang="ar">Entertainment Tonight</title>
-    <desc lang="ar">برنامج يومي، يتم من خلاله تقديم العديد من الأخبار العالمية والمقابلات وما وراء الكواليس عن الأفلام والسينما العالمية ونجومها.(n)</desc>
-    <credits>
-      <director>ألفريد ماسيني</director>
-      <actor>ماري هارت</actor>
-      <actor>مارك ستينيز</actor>
-    </credits>
-    <rating system="EG">
-      <value>5.9</value>
-    </rating>
+  <programme start="20200516143200 +0000" stop="20200516145900 +0000" channel="MBC Movie Max">
+    <title lang="ar">هوليوود باز</title>
+    <desc lang="ar">يقدم البرنامج آخر أخبار نجوم عالم هوليوود، وباقة من الشائعات المتعلقة بالمشاهير، كما يوفر نظرة عن قرب على عروض هوليوود الأولى والأحداث الخاصة، إضافة إلى تقارير حول ألمع المهرجانات السينمائية في العالم، وكل ما رغبتم دائماً بمعرفته عن نجومكم المفضلين.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
   </programme>
-  <programme start="20200516150000 -0400" stop="20200516173000 -0400" channel="MBC MAX">
-    <title lang="ar">State of Play</title>
-    <desc lang="ar">يُقتل لص حقير في أحد اﻷزقة، كما يسقط مساعدًا ﻷحد النواب صريعًا في مترو اﻷنفاق، قد يبدو للوهلة اﻷولى أن الحادثتان لا صلة لهما ببعضهما البعض، لكن الصحافي كال ماكرفي يكشف عما يجمع بينهما. When a congressional aide is killed, an investigative journalist discovers that she was having an affair with her boss, his old college friend. His search for answers about her death leads him to a vast conspiracy that links a series of seemingly unrelated murders.(n)</desc>
-    <credits>
-      <director>كيفين ماكدونالد</director>
-      <actor>راسل كرو</actor>
-      <actor>ريتشيل ماك آدامز</actor>
-      <actor>بن أفليك</actor>
-      <actor>هيلين ميرين</actor>
-      <actor>جيف دانيالز</actor>
-      <actor>روبن رايت</actor>
-      <writer>توني جيلروي</writer>
-      <writer>ماثيو مايكل كارناهان</writer>
-    </credits>
-    <category lang="ar">تصنيف العمل</category>
-    <category lang="ar">ﺟﺮﻳﻤﺔ</category>
-    <category lang="ar">ﺩﺭاﻣﺎ</category>
-    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
-    <rating system="EG">
-      <value>5.5</value>
-    </rating>
+  <programme start="20200516145900 +0000" stop="20200516165800 +0000" channel="MBC Movie Max">
+    <title lang="ar">إيجل آي</title>
+    <desc lang="ar">شخصان غريبان يجبران على ترك حياتهما الطبيعية عندما يتم \"تفعيلهما\" كجزء من مؤامرة اغتيال باستخدام أحدث التقنيات. يحاول الاثنان الهرب والنجاة بحياتهما عبر سلسلة من المطاردات الصادمة والخطرة، ولكن أين المفر من عدو يتربص بك في كل مكان؟.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200516165800 +0000" stop="20200516182800 +0000" channel="MBC Movie Max">
+    <title lang="ar">آرمورد</title>
+    <desc lang="ar">يخاطر طاقم يضم أفراد ضباط يعملون لدى شركة نقل أمنية تسير سيارات مدرعة بحياتهم عند شروعهم في سرقة الشركة التي يعملون لديها.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200516182800 +0000" stop="20200516190000 +0000" channel="MBC Movie Max">
+    <title lang="ar">إنترتاينمنت تونايت</title>
+    <desc lang="ar">مجموعة من الأخبار الترفيهية والمتنوعة عن المشاهير والسينما والتلفزيون والموسيقى والأزياء وعروض الجوائز والمناسبات الخاصة بشكل رائد وشيق.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200516190000 +0000" stop="20200516212900 +0000" channel="MBC Movie Max">
+    <title lang="ar">ستايت أوف بلاي</title>
+    <desc lang="ar">مراسل يكشف السر وراء جريمة قتل بشعة يتورط فيها سياسي يتسم برباطة الجأش، ينتظره مستقبل واعد في حزبه السياسي.(n)</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20200516212900 +0000" stop="20200516233000 +0000" channel="MBC Movie Max">
+    <title lang="ar">بلاك ماس</title>
+    <desc lang="ar">في سبعينات القرن الماضي، يقوم وكيل في مكتب التحقيقات الفيدرالي يدعى جون كونولي بإقناع جيمس وايتي، وهو رجل عصابة أيرلندي، بالتعاون مع مكتب التحقيقات لتصفية المافيا الإيطالية والتي تعتبر عدوا مشتركا لكلا الطرفين.(n)</desc>
+    <category lang="ar">جريمة</category>
+  </programme>
+  <programme start="20200516233000 +0000" stop="20200517012900 +0000" channel="MBC Movie Max">
+    <title lang="ar">إمبوستر</title>
+    <desc lang="ar">في الوقت الذي كانت فيه الأرض تخوض حربا ضد قوى فضائية استمرت لأكثر من عقد من الزمن، يتم اتهام عالم بالتجسس لصالح مخلوقات فضائية، وينطلق لاحقا في مهمة ليبرئ نفسه وينقذ البشرية.(n)</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20200517012900 +0000" stop="20200517035900 +0000" channel="MBC Movie Max">
+    <title lang="ar">هانيبال</title>
+    <desc lang="ar">أثناء عيش هانيبال ليكتر في منفى، يحاول إعادة التواصل مع كلاريس ستارلينج العميلة الموصومة من مكتب التحقيقات الفيدرالي، ولكنه يجد نفسه هدفاً لضحية قوية تسعى للانتقام.(n)</desc>
+    <category lang="ar">رعب</category>
+  </programme>
+  <programme start="20200517035900 +0000" stop="20200517055100 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا جرينتش</title>
+    <desc lang="ar">في أعلى جبل كرومبيت، يراقب جرينش سكان بلدة هوفيل وهم يتهيأون بفرح للاحتفال بأعياد الميلاد. ويقرر بأن الكيل قد طفح وحان وقت وضع حدٍ لكل هذا الفرح، ويتآمر لسرقة أعياد الميلاد من هوفيل!(n)</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20200517055100 +0000" stop="20200517083000 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا كرونيكيلز أوف نارنيا: برينس كاسبيان</title>
+    <desc lang="ar">بعد سنة واحدة من رحلتهم إلى نارنيا، تم نقل الأطفال البيفينسيين بطريقة سحرية مرة أخرى وعادوا إلى الأرض السحرية، وهناك اكتشفوا أنه قد مضى أكثر من 1300 سنة وأن نارنيا الآن تحت سيطرة ملك الشر ميراز والذي يحكم بلا رحمة.(n)</desc>
+    <category lang="ar">مغامرة</category>
+  </programme>
+  <programme start="20200517083000 +0000" stop="20200517103000 +0000" channel="MBC Movie Max">
+    <title lang="ar">إيجل آي</title>
+    <desc lang="ar">شخصان غريبان يجبران على ترك حياتهما الطبيعية عندما يتم \"تفعيلهما\" كجزء من مؤامرة اغتيال باستخدام أحدث التقنيات. يحاول الاثنان الهرب والنجاة بحياتهما عبر سلسلة من المطاردات الصادمة والخطرة، ولكن أين المفر من عدو يتربص بك في كل مكان؟.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200517103000 +0000" stop="20200517125800 +0000" channel="MBC Movie Max">
+    <title lang="ar">ستايت أوف بلاي</title>
+    <desc lang="ar">مراسل يكشف السر وراء جريمة قتل بشعة يتورط فيها سياسي يتسم برباطة الجأش، ينتظره مستقبل واعد في حزبه السياسي.(n)</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20200517125800 +0000" stop="20200517155800 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا لورد أوف ذا رينجز: ذا فيلوشيب أوف ذا رينج</title>
+    <desc lang="ar">يرث الهوبيت الخجول المدعو فرودو باجينز خاتم ذهبي بسيط، وهو مدرك تماما أن الخاتم يحمل قوة ولكن ليس لدرجة أن يحمل سر بقاء العالم بأسره أو استعباده.(n)</desc>
+    <category lang="ar">خيالي</category>
+  </programme>
+  <programme start="20200517155800 +0000" stop="20200517185800 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا لورد أوف ذا رينجز: ذا تو تاورز</title>
+    <desc lang="ar">يستكمل فرودو باجينز وأعضاء الزمالة الآخرين سعيهم المقدس لتدمير الخاتم، ولكن افترقت بهم السبل، حيث يكمن مصيرهم في برجين مختلفين، أورثانيك تاور في آيزنجارد وقلعة سورون في باراد-دور.(n)</desc>
+    <category lang="ar">خيالي</category>
+  </programme>
+  <programme start="20200517185800 +0000" stop="20200517223000 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا لورد أوف ذا رينجز: ذا رتيرن أوف ذا كينج</title>
+    <desc lang="ar">بينما يتجمع عناصر الجيش لخوض المعركة النهائية التي ستحسم مصير العالم، يتم الكشف عن وراثة أحد أعضاء رفقة الخواتم للعرش الملكي.(n)</desc>
+    <category lang="ar">خيالي</category>
+  </programme>
+  <programme start="20200517223000 +0000" stop="20200518002800 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا جولدن كمبس</title>
+    <desc lang="ar">ليرا فتاة في الثانية عشرة من عمرها، تنطلق في مهمة سعياً وراء إنقاذ صديقتها المقربة وينتهي بها المطاف في سعي استثنائي ليس من أجل إنقاذ عالمها فقط ولكن عالمنا والآخرين أيضاً.(n)</desc>
+    <category lang="ar">خيالي</category>
+  </programme>
+  <programme start="20200518002800 +0000" stop="20200518015900 +0000" channel="MBC Movie Max">
+    <title lang="ar">آرمورد</title>
+    <desc lang="ar">يخاطر طاقم يضم أفراد ضباط يعملون لدى شركة نقل أمنية تسير سيارات مدرعة بحياتهم عند شروعهم في سرقة الشركة التي يعملون لديها.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200518015900 +0000" stop="20200518035900 +0000" channel="MBC Movie Max">
+    <title lang="ar">بلاك ماس</title>
+    <desc lang="ar">في سبعينات القرن الماضي، يقوم وكيل في مكتب التحقيقات الفيدرالي يدعى جون كونولي بإقناع جيمس وايتي، وهو رجل عصابة أيرلندي، بالتعاون مع مكتب التحقيقات لتصفية المافيا الإيطالية والتي تعتبر عدوا مشتركا لكلا الطرفين.(n)</desc>
+    <category lang="ar">جريمة</category>
+  </programme>
+  <programme start="20200518035900 +0000" stop="20200518042900 +0000" channel="MBC Movie Max">
+    <title lang="ar">بلانت آكشن</title>
+    <desc lang="ar">وسط إطلاق نار من قبل رعاة البقر وانفجار سيارات، وقتالات في الفضاء، ووحوش صاخبة، يأخذكم بلانت آكشن وراء كواليس أفضل الأفلام على الإطلاق.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200518042900 +0000" stop="20200518060000 +0000" channel="MBC Movie Max">
+    <title lang="ar">كلينر</title>
+    <desc lang="ar">تنقلب حياة رجل مختص في تنظيف مسرح الجريمة رأساً على عقب عندما يقوم بإزالة دليل على جريمة قتل قبل أن يتم الإبلاغ عنها.(n)</desc>
+    <category lang="ar">إثارة</category>
+  </programme>
+  <programme start="20200518060000 +0000" stop="20200518080000 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا كرونيكيلز أوف نارنيا 3</title>
+    <desc lang="ar">الرحلة الأسطورية لدون تريدر: يجد كل من إدموند ولوسي بيفنسي أنفسهما إلى جانب ابن عمهما يوستاس وصديقهما الملك كاسبيان وفأر محارب يدعى ريبيتشيب وقد ابتلعتهم لوحة فنية لينتهي بهم المطاف على متن السفينة الرائعة ذا دون تريدر.(n)</desc>
+    <category lang="ar">مغامرة</category>
+  </programme>
+  <programme start="20200518080000 +0000" stop="20200518083000 +0000" channel="MBC Movie Max">
+    <title lang="ar">هوليوود باز</title>
+    <desc lang="ar">يقدم البرنامج آخر أخبار نجوم عالم هوليوود، وباقة من الشائعات المتعلقة بالمشاهير، كما يوفر نظرة عن قرب على عروض هوليوود الأولى والأحداث الخاصة، إضافة إلى تقارير حول ألمع المهرجانات السينمائية في العالم، وكل ما رغبتم دائماً بمعرفته عن نجومكم المفضلين.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200518083000 +0000" stop="20200518103000 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا جرينتش</title>
+    <desc lang="ar">في أعلى جبل كرومبيت، يراقب جرينش سكان بلدة هوفيل وهم يتهيأون بفرح للاحتفال بأعياد الميلاد. ويقرر بأن الكيل قد طفح وحان وقت وضع حدٍ لكل هذا الفرح، ويتآمر لسرقة أعياد الميلاد من هوفيل!(n)</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20200518103000 +0000" stop="20200518123000 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا جولدن كمبس</title>
+    <desc lang="ar">ليرا فتاة في الثانية عشرة من عمرها، تنطلق في مهمة سعياً وراء إنقاذ صديقتها المقربة وينتهي بها المطاف في سعي استثنائي ليس من أجل إنقاذ عالمها فقط ولكن عالمنا والآخرين أيضاً.(n)</desc>
+    <category lang="ar">خيالي</category>
+  </programme>
+  <programme start="20200518123000 +0000" stop="20200518150000 +0000" channel="MBC Movie Max">
+    <title lang="ar">التعهد</title>
+    <desc lang="ar">في ليلة تقاعده، يواجه جيري بلاك شبح الحياة غير الواضحة بعد تركه لعالمه في قوات الشرطة. ولكن بعد العثور على جثة لفتاة في الثامنة من العمر تم قتلها، يقسم جيري لأمها الحزينة على أن يمسك بقاتل الطفلة.(n)</desc>
+    <category lang="ar">جريمة</category>
+  </programme>
+  <programme start="20200518150000 +0000" stop="20200518170000 +0000" channel="MBC Movie Max">
+    <title lang="ar">برايتون روك</title>
+    <desc lang="ar">يحكي الفيلم قصة السقوط المفاجئ لبينكي، وهو فتى قليل الحظ يحمل دائماً شفرة في يده، عازم على أن يشق طريقه نحو عالم الجريمة المنظمة.(n)</desc>
+    <category lang="ar">جريمة</category>
+  </programme>
+  <programme start="20200518170000 +0000" stop="20200518190000 +0000" channel="MBC Movie Max">
+    <title lang="ar">مارثا مارسي ماي مارلين</title>
+    <desc lang="ar">بعد محاصرتها بومضات ذكريات مثيرة للقلق من الماضي ورؤى لمستقبل محفوف بالمخاطر، تصبح سيدة تحت سطوة شعور مضطرب مليء بالخوف، مما يتركها ضحية جنون الارتياب، كما يثقل كاهلها شعور غامض بالذنب.(n)</desc>
+    <category lang="ar">إثارة</category>
+  </programme>
+  <programme start="20200518190000 +0000" stop="20200518210000 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا دوبل</title>
+    <desc lang="ar">عندما يتعرض عضو في مجلس الشيوخ الأمريكي للقتل بطريقة وحشية، تشير الأدلة إلى تورط قاتل سوفيتي أعتقد الجميع بأنه توفي منذ فترة طويلة، ويتم إرسال رجلين يعرفان كاسيوس جيدا أكثر من أي شخص آخر في مهمة للقبض عليه.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200518210000 +0000" stop="20200518230000 +0000" channel="MBC Movie Max">
+    <title lang="ar">أن نون</title>
+    <desc lang="ar">يستيقظ الدكتور مارتن هاريس من غيبوبته بعد تعرضه لحادث سيارة في برلين ليكتشف فجأة بأن زوجته لا تتعرف عليه ورجلاً آخر ينتحل شخصيته.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200518230000 +0000" stop="20200519010000 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا جرينتش</title>
+    <desc lang="ar">في أعلى جبل كرومبيت، يراقب جرينش سكان بلدة هوفيل وهم يتهيأون بفرح للاحتفال بأعياد الميلاد. ويقرر بأن الكيل قد طفح وحان وقت وضع حدٍ لكل هذا الفرح، ويتآمر لسرقة أعياد الميلاد من هوفيل!(n)</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20200519010000 +0000" stop="20200519040000 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا لورد أوف ذا رينجز: ذا فيلوشيب أوف ذا رينج</title>
+    <desc lang="ar">يرث الهوبيت الخجول المدعو فرودو باجينز خاتم ذهبي بسيط، وهو مدرك تماما أن الخاتم يحمل قوة ولكن ليس لدرجة أن يحمل سر بقاء العالم بأسره أو استعباده.(n)</desc>
+    <category lang="ar">خيالي</category>
+  </programme>
+  <programme start="20200519040000 +0000" stop="20200519043000 +0000" channel="MBC Movie Max">
+    <title lang="ar">بلانت آكشن</title>
+    <desc lang="ar">وسط إطلاق نار من قبل رعاة البقر وانفجار سيارات، وقتالات في الفضاء، ووحوش صاخبة، يأخذكم بلانت آكشن وراء كواليس أفضل الأفلام على الإطلاق.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200519043000 +0000" stop="20200519063000 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا جولدن كمبس</title>
+    <desc lang="ar">ليرا فتاة في الثانية عشرة من عمرها، تنطلق في مهمة سعياً وراء إنقاذ صديقتها المقربة وينتهي بها المطاف في سعي استثنائي ليس من أجل إنقاذ عالمها فقط ولكن عالمنا والآخرين أيضاً.(n)</desc>
+    <category lang="ar">خيالي</category>
+  </programme>
+  <programme start="20200519063000 +0000" stop="20200519080000 +0000" channel="MBC Movie Max">
+    <title lang="ar">مارثا مارسي ماي مارلين</title>
+    <desc lang="ar">بعد محاصرتها بومضات ذكريات مثيرة للقلق من الماضي ورؤى لمستقبل محفوف بالمخاطر، تصبح سيدة تحت سطوة شعور مضطرب مليء بالخوف، مما يتركها ضحية جنون الارتياب، كما يثقل كاهلها شعور غامض بالذنب.(n)</desc>
+    <category lang="ar">إثارة</category>
+  </programme>
+  <programme start="20200519080000 +0000" stop="20200519083000 +0000" channel="MBC Movie Max">
+    <title lang="ar">سكووب مع ريا</title>
+    <desc lang="ar">يعتبر البرنامج بمثابة وجهة هوليوود الأولى في إيصال آخر أخبار الأفلام إلى العالم العربي، حيث تتيح لنا ريا الوصول إلى ألمع نجوم الأفلام السينمائية، وتبقينا على اطلاع دائم بآخر أخبار هوليوود.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200519083000 +0000" stop="20200519103000 +0000" channel="MBC Movie Max">
+    <title lang="ar">برايتون روك</title>
+    <desc lang="ar">يحكي الفيلم قصة السقوط المفاجئ لبينكي، وهو فتى قليل الحظ يحمل دائماً شفرة في يده، عازم على أن يشق طريقه نحو عالم الجريمة المنظمة.(n)</desc>
+    <category lang="ar">جريمة</category>
+  </programme>
+  <programme start="20200519103000 +0000" stop="20200519110000 +0000" channel="MBC Movie Max">
+    <title lang="ar">بلانت آكشن</title>
+    <desc lang="ar">وسط إطلاق نار من قبل رعاة البقر وانفجار سيارات، وقتالات في الفضاء، ووحوش صاخبة، يأخذكم بلانت آكشن وراء كواليس أفضل الأفلام على الإطلاق.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200519110000 +0000" stop="20200519130000 +0000" channel="MBC Movie Max">
+    <title lang="ar">أن نون</title>
+    <desc lang="ar">يستيقظ الدكتور مارتن هاريس من غيبوبته بعد تعرضه لحادث سيارة في برلين ليكتشف فجأة بأن زوجته لا تتعرف عليه ورجلاً آخر ينتحل شخصيته.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200519130000 +0000" stop="20200519133000 +0000" channel="MBC Movie Max">
+    <title lang="ar">هوليوود باز</title>
+    <desc lang="ar">يقدم البرنامج آخر أخبار نجوم عالم هوليوود، وباقة من الشائعات المتعلقة بالمشاهير، كما يوفر نظرة عن قرب على عروض هوليوود الأولى والأحداث الخاصة، إضافة إلى تقارير حول ألمع المهرجانات السينمائية في العالم، وكل ما رغبتم دائماً بمعرفته عن نجومكم المفضلين.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200519133000 +0000" stop="20200519153000 +0000" channel="MBC Movie Max">
+    <title lang="ar">ستيب بروذرز</title>
+    <desc lang="ar">يعيش رجلين في الأربعين من عمرهما في منزل ذويهم. وعندما يقع والد الأول بحب والدة الثاني ويتزوجان، يُجبر الإثنان على العيش معاً كأخوة.(n)</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20200519153000 +0000" stop="20200519170000 +0000" channel="MBC Movie Max">
+    <title lang="ar">بلايدز أوف جلوري</title>
+    <desc lang="ar">يتشاجر متزلجان استعراضيان متنافسان بعد تقاسمهما الميدالية الذهبية في بطولة العالم. وبعد حرمانهما مدى الحياة من المشاركة في بطولة الرجال، يتحايل الغريمان على النظام بفضل ثغرة تتيح لهما التزلج مجدداً، ولكن في منافسة مخصصة للتزلج الثنائي!(n)</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20200519170000 +0000" stop="20200519183000 +0000" channel="MBC Movie Max">
+    <title lang="ar">سيمي-برو</title>
+    <desc lang="ar">الحكاية الطريفة للشخص الأسطوري الذي صنع مجد فريق تروبيكس، وكان أكثر من مجرد مالك ومدرب ونجم في الفريق، جاكي مون الذي يسعى للارتقاء بفريقه الخاسر والذي يفتقر إلى الموهبة ولإيصاله إلى بطولة الدوري.(n)</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20200519183000 +0000" stop="20200519190000 +0000" channel="MBC Movie Max">
+    <title lang="ar">إنترتاينمنت تونايت</title>
+    <desc lang="ar">مجموعة من الأخبار الترفيهية والمتنوعة عن المشاهير والسينما والتلفزيون والموسيقى والأزياء وعروض الجوائز والمناسبات الخاصة بشكل رائد وشيق.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200519190000 +0000" stop="20200519203000 +0000" channel="MBC Movie Max">
+    <title lang="ar">آنكرمان: ذا ليجند أوف رون برجندي</title>
+    <desc lang="ar">مذيع أخبار متفوق يؤمن بأن النساء يتعين عليهن تغطية برامج الموضة أو أحدث القصص المتعلقة بالطهي فقط، يتم إعلامه بأن عليه العمل مع مذيعة أخبار شابة وذكية، ليبدأ الصراع بينهما، صراع يفوق كونه مجرد صدام بين شخصين يملكان شعراً رائعاً، بل إنها الحرب.(n)</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20200519203000 +0000" stop="20200519210000 +0000" channel="MBC Movie Max">
+    <title lang="ar">بلانت آكشن</title>
+    <desc lang="ar">وسط إطلاق نار من قبل رعاة البقر وانفجار سيارات، وقتالات في الفضاء، ووحوش صاخبة، يأخذكم بلانت آكشن وراء كواليس أفضل الأفلام على الإطلاق.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200519210000 +0000" stop="20200519230000 +0000" channel="MBC Movie Max">
+    <title lang="ar">تشيبس</title>
+    <desc lang="ar">ينضم جون، وهو محترف سابق في قيادة الدراجات النارية أفل نجمه، إلى وكيل فيدرالي مغرور يعمل متخفيا يدعى فرانك، في دورية مرورية لمراقبة الطرق السريعة، لكنهما يجدان صعوبة في تقبل بعضهما البعض، وتصبح شراكتهما على المحك.(n)</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20200519230000 +0000" stop="20200520010000 +0000" channel="MBC Movie Max">
+    <title lang="ar">برايتون روك</title>
+    <desc lang="ar">يحكي الفيلم قصة السقوط المفاجئ لبينكي، وهو فتى قليل الحظ يحمل دائماً شفرة في يده، عازم على أن يشق طريقه نحو عالم الجريمة المنظمة.(n)</desc>
+    <category lang="ar">جريمة</category>
+  </programme>
+  <programme start="20200520010000 +0000" stop="20200520040000 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا لورد أوف ذا رينجز: ذا تو تاورز</title>
+    <desc lang="ar">يستكمل فرودو باجينز وأعضاء الزمالة الآخرين سعيهم المقدس لتدمير الخاتم، ولكن افترقت بهم السبل، حيث يكمن مصيرهم في برجين مختلفين، أورثانيك تاور في آيزنجارد وقلعة سورون في باراد-دور.(n)</desc>
+    <category lang="ar">خيالي</category>
+  </programme>
+  <programme start="20200520040000 +0000" stop="20200520060000 +0000" channel="MBC Movie Max">
+    <title lang="ar">التعهد</title>
+    <desc lang="ar">في ليلة تقاعده، يواجه جيري بلاك شبح الحياة غير الواضحة بعد تركه لعالمه في قوات الشرطة. ولكن بعد العثور على جثة لفتاة في الثامنة من العمر تم قتلها، يقسم جيري لأمها الحزينة على أن يمسك بقاتل الطفلة.(n)</desc>
+    <category lang="ar">جريمة</category>
+  </programme>
+  <programme start="20200520060000 +0000" stop="20200520080000 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا فاميلي مان</title>
+    <desc lang="ar">يستيقظ وسيط استثمار دائم الانشغال في مدينة نيويورك في صباح أحد الأيام ليجد نفسه يعيش حياة الضواحي الهادئة التي رفض تقبلها منذ سنوات مضت.(n)</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20200520080000 +0000" stop="20200520093000 +0000" channel="MBC Movie Max">
+    <title lang="ar">سيمي-برو</title>
+    <desc lang="ar">الحكاية الطريفة للشخص الأسطوري الذي صنع مجد فريق تروبيكس، وكان أكثر من مجرد مالك ومدرب ونجم في الفريق، جاكي مون الذي يسعى للارتقاء بفريقه الخاسر والذي يفتقر إلى الموهبة ولإيصاله إلى بطولة الدوري.(n)</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20200520093000 +0000" stop="20200520110000 +0000" channel="MBC Movie Max">
+    <title lang="ar">بلايدز أوف جلوري</title>
+    <desc lang="ar">يتشاجر متزلجان استعراضيان متنافسان بعد تقاسمهما الميدالية الذهبية في بطولة العالم. وبعد حرمانهما مدى الحياة من المشاركة في بطولة الرجال، يتحايل الغريمان على النظام بفضل ثغرة تتيح لهما التزلج مجدداً، ولكن في منافسة مخصصة للتزلج الثنائي!(n)</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20200520110000 +0000" stop="20200520130000 +0000" channel="MBC Movie Max">
+    <title lang="ar">آنكرمان: ذا ليجند أوف رون برجندي</title>
+    <desc lang="ar">مذيع أخبار متفوق يؤمن بأن النساء يتعين عليهن تغطية برامج الموضة أو أحدث القصص المتعلقة بالطهي فقط، يتم إعلامه بأن عليه العمل مع مذيعة أخبار شابة وذكية، ليبدأ الصراع بينهما، صراع يفوق كونه مجرد صدام بين شخصين يملكان شعراً رائعاً، بل إنها الحرب.(n)</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20200520130000 +0000" stop="20200520150000 +0000" channel="MBC Movie Max">
+    <title lang="ar">بريميوم راش</title>
+    <desc lang="ar">يستلم مندوب توصيل يقود دراجة هوائية طرداً في جامعة كولومبيا ويحاول إيصاله إلى عنوان المستلم، لكن شرطياً فاسداً يستميت لأخذ الطرد منه، ويقوم بمطاردته في كافة أرجاء مدينة نيويورك.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200520150000 +0000" stop="20200520170000 +0000" channel="MBC Movie Max">
+    <title lang="ar">تيكرز</title>
+    <desc lang="ar">يتم تحريض محقق من مانهاتن ضد مجموعة من الشباب المتخصصين بالسرقات المتقنة.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200520170000 +0000" stop="20200520183500 +0000" channel="MBC Movie Max">
+    <title lang="ar">هومفرونت</title>
+    <desc lang="ar">عميل سابق في إدارة مكافحة المخدرات، وهو أرمل أيضاً يقرر الانتقال للعيش في بلدة صغيرة من أجل ابنته البالغة من العمر عشر سنوات، ولكن المشكلة الوحيدة هي أنه اختار المدينة الخطأ!(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200520183500 +0000" stop="20200520190000 +0000" channel="MBC Movie Max">
+    <title lang="ar">إنترتاينمنت تونايت</title>
+    <desc lang="ar">مجموعة من الأخبار الترفيهية والمتنوعة عن المشاهير والسينما والتلفزيون والموسيقى والأزياء وعروض الجوائز والمناسبات الخاصة بشكل رائد وشيق.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200520190000 +0000" stop="20200520210000 +0000" channel="MBC Movie Max">
+    <title lang="ar">كيل بيل: فوليوم 1</title>
+    <desc lang="ar">بعد مضي أربع سنوات على إصابتها برصاصة في الرأس خلال حفل زفافها، تستفيق العروس من غيبوبتها عازمة على الانتقام.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200520210000 +0000" stop="20200520233000 +0000" channel="MBC Movie Max">
+    <title lang="ar">كيل بيل: فوليوم 2</title>
+    <desc lang="ar">بعد أن نجحت في شطب اسمين من قائمة الموت، تواصل العروس سعيها إلى تحقيق العدالة، وتضع الناجيين الوحيدين المتبقين من فريق القتلة الذين قاموا بخيانتها قبل أربع سنوات، نصب عينيها.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200520233000 +0000" stop="20200522070000 +0000" channel="MBC Movie Max">
+    <title lang="ar">آنكرمان: ذا ليجند أوف رون برجندي</title>
+    <desc lang="ar">مذيع أخبار متفوق يؤمن بأن النساء يتعين عليهن تغطية برامج الموضة أو أحدث القصص المتعلقة بالطهي فقط، يتم إعلامه بأن عليه العمل مع مذيعة أخبار شابة وذكية، ليبدأ الصراع بينهما، صراع يفوق كونه مجرد صدام بين شخصين يملكان شعراً رائعاً، بل إنها الحرب.(n)</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20200522070000 +0000" stop="20200522090000 +0000" channel="MBC Movie Max">
+    <title lang="ar">لوف &amp; فرندشب</title>
+    <desc lang="ar">تسعى أرملة شابة تتمتع بمسحة من الجمال خلال زيارتها لأقربائها، إلى تأمين زوج لها، ومستقبل لابنتها المؤهلة والمترددة، وفي خضم سعيها الحثيث تنجح في إثارة إعجاب ثلاثة رجال في وقت متزامن، الأمر الذي يؤدي إلى تعقيد الأمور بشدة.(n)</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20200522090000 +0000" stop="20200522113000 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا لايت بيتوين أوشينز</title>
+    <desc lang="ar">يعيش حارس منارة وزوجته في السواحل الغربية الأسترالية، ويقومان بتربية طفلاً أنقذاه من زورق تجديف كان قد جرفه البحر.(n)</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20200522113000 +0000" stop="20200522133000 +0000" channel="MBC Movie Max">
+    <title lang="ar">ذا بيجايلد</title>
+    <desc lang="ar">يتم نقل جندي تعرض لإصابة بالغة في الحرب الأهلية إلى مدرسة داخلية للفتيات تقع في جنوب البلاد. بعد حصوله على ملجأ وعلاج جروحه تبدأ الفتيات الغيورات بالانقلاب على بعضهن البعض وسط تنافسهن على الجندي.(n)</desc>
+    <category lang="ar">دراما</category>
+  </programme>
+  <programme start="20200522133000 +0000" stop="20200522150000 +0000" channel="MBC Movie Max">
+    <title lang="ar">ماداجاسكار 3: يوروبس موست وانتد</title>
+    <desc lang="ar">الآن وبمساعدة الملك المحب للشهرة جوليان والبطاريق القيادية ينضم الفريق بأكمله إلى السيرك هرباً من رئيسة قسم ضبط الحيوانات، الكابتن دوبوز.(n)</desc>
+    <category lang="ar">رسوم متحركة</category>
+  </programme>
+  <programme start="20200522150000 +0000" stop="20200522170000 +0000" channel="MBC Movie Max">
+    <title lang="ar">نايت أت ذا ميوزيم</title>
+    <desc lang="ar">يكتشف الحارس الليلي الجديد لمتحف التاريخ الطبيعي أن المغامرات الحقيقية داخل المتحف تبدأ عندما يعود الزوار في نهاية اليوم إلى منازلهم، حيث تعود كل التماثيل المصنوعة من الشمع الموجودة في المتحف للحياة وتخرج للعب!(n)</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20200522170000 +0000" stop="20200522183000 +0000" channel="MBC Movie Max">
+    <title lang="ar">زولاندر 2</title>
+    <desc lang="ar">يعمل ديريك وهانسيل كعارضي أزياء ولكن تحاول شركة منافسة إخراجهما من سوق العمل من جديد.(n)</desc>
+    <category lang="ar">كوميدي</category>
+  </programme>
+  <programme start="20200522183000 +0000" stop="20200522190000 +0000" channel="MBC Movie Max">
+    <title lang="ar">إنترتاينمنت تونايت</title>
+    <desc lang="ar">مجموعة من الأخبار الترفيهية والمتنوعة عن المشاهير والسينما والتلفزيون والموسيقى والأزياء وعروض الجوائز والمناسبات الخاصة بشكل رائد وشيق.(n)</desc>
+    <category lang="ar">معلومات ترفيهية</category>
+  </programme>
+  <programme start="20200522190000 +0000" stop="20200522213000 +0000" channel="MBC Movie Max">
+    <title lang="ar">روج ون: إيه ستار وورز ستوري</title>
+    <desc lang="ar">بعد نهوض إمبراطورية جالاكتيك يوحد مجموعة محاربين من تحالف \"ريبل\" قواهم وفي داخلهم رغبة عارمة لتنفيذ مهمة تهدف إلى سرقة خطط السفينة \"ديث ستار\" قبل استخدامها في فرض حكم الإمبراطور الشرير.(n)</desc>
+    <category lang="ar">أكشن</category>
+  </programme>
+  <programme start="20200522213000 +0000" stop="20200522233000 +0000" channel="MBC Movie Max">
+    <title lang="ar">رايز أوف ذا بلانيت أوف ذي إيبس</title>
+    <desc lang="ar">يتحول اكتشاف عظيم إلى أشرس خطر في العالم، بعد قيام أحد العلماء بالقيام بتجارب على شمبانزي يدعى سيزار.(n)</desc>
+    <category lang="ar">أكشن</category>
   </programme>
   <programme start="20200516005900 +0000" stop="20200516020000 +0000" channel="MBC Drama">
     <title lang="ar">هيا وبناتها</title>
@@ -4048,19 +4521,6 @@
     <title lang="ar">الاختيار</title>
     <desc lang="ar">عن قصة حقيقية هزت العالم العربي عام 2017، يتتبع الاختيار حياة صديقين مقربين تصبح علاقتهما الوطيدة على المحك عندما يتم استدراج أحدهما إلى جماعة متطرفة.(n)</desc>
     <category lang="ar">دراما</category>
-  </programme>
-  <programme start="20200516043000 -0400" stop="20200516050000 -0400" channel="LBCI">
-    <title lang="ar">نيال البيت</title>
-    <desc lang="ar">تدور الأحداث خلال مجموعة من المواقف الطريقة والكوميدية اليومية التي تعيشها عائلتي كمال والمعلم عباس.(n)</desc>
-    <credits>
-      <director>كميل سلامة</director>
-      <actor>جورج الأسمر</actor>
-      <actor>آجيا أبو عسلي</actor>
-      <actor>طوني مهنا</actor>
-      <actor>أسعد حداد</actor>
-      <writer>كميل سلامة</writer>
-    </credits>
-    <date>1998</date>
   </programme>
   <programme start="20200516050000 -0400" stop="20200516060000 -0400" channel="LBCI">
     <title lang="ar">ياسمينة</title>
@@ -5232,11 +5692,28 @@
       <value>5.5</value>
     </rating>
   </programme>
-  <programme start="20200516045500 -0400" stop="20200516050000 -0400" channel="أبو ظبي">
-    <title lang="ar">برنامج هو الله</title>
-  </programme>
-  <programme start="20200516050000 -0400" stop="20200516055500 -0400" channel="أبو ظبي">
-    <title lang="ar">برنامج مطبخ مي</title>
+  <programme start="20200518152500 -0400" stop="20200518161000 -0400" channel="LBCI">
+    <title lang="ar">النحات</title>
+    <desc lang="ar">يقرر يمان أن ينتقل إلى بيت العائلة حيث يقيم هناك لتدريس النحت في إحدى الجامعات، ولكن والدته ترفض الفكرة خاصة أن المنزل لم ينتقل إليه أحد منذ وفاة والده، ويسطير عليها الفزع والخوف من فتح باب أغلق منذ سنوات طويلة. When Yaman decides to move into the family house as he prepares to teach sculpture in college, his mother opposes his decision since the house has been empty since his father's death. But the truth is that she is afraid that the move will open a door that was closed years ago.(n)</desc>
+    <credits>
+      <director>مجدي السميري</director>
+      <director>عمرو أفغاني</director>
+      <actor>باسل خياط</actor>
+      <actor>أمل بوشوشة</actor>
+      <actor>إيلي متري</actor>
+      <actor>جوزيف بو نصار</actor>
+      <actor>ليا أبو شعيا</actor>
+      <actor>دارينا الجندي</actor>
+      <writer>بثينة عوض</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">ﻏﻤﻮﺽ</category>
+    <rating system="EG">
+      <value>7.3</value>
+    </rating>
   </programme>
   <programme start="20200516055500 -0400" stop="20200516060000 -0400" channel="أبو ظبي">
     <title lang="ar">برنامج الوثيقة</title>
@@ -5809,6 +6286,12 @@
     <rating system="EG">
       <value>8.4</value>
     </rating>
+  </programme>
+  <programme start="20200517045500 -0400" stop="20200517050000 -0400" channel="أبو ظبي">
+    <title lang="ar">برنامج هو الله</title>
+  </programme>
+  <programme start="20200517050000 -0400" stop="20200517055500 -0400" channel="أبو ظبي">
+    <title lang="ar">برنامج مطبخ مي</title>
   </programme>
   <programme start="20200517060000 -0400" stop="20200517065500 -0400" channel="أبو ظبي">
     <title lang="ar">جنة هلي</title>
@@ -6507,26 +6990,26 @@
       <value>4.3</value>
     </rating>
   </programme>
-  <programme start="20200516040000 -0400" stop="20200516050000 -0400" channel="أبو ظبي دراما">
-    <title lang="ar">دومينو</title>
-    <desc lang="ar">يدور العمل في إطار اجتماعي معاصر حول قصة رجل الاعمال الفاسد (نوح)، الذي يتزعم مافيا اقتصادية منخرطة باعمال مشبوهة، كل هذا خلف ستار شركته التجارية، وسنشهد صراع محموم لحماية نفوذه خاصة بعد أن تكتشف زوجته سرًا كان يخفيه عنها، فتقرر الهرب مع وثائق وتسجيلات خطيرة تدينه مع شركائه من تجار ورجال سلطة فاسدين.(n)</desc>
+  <programme start="20200518150000 -0400" stop="20200518160000 -0400" channel="أبو ظبي">
+    <title lang="ar">كنا أمس</title>
+    <desc lang="ar">بحلقات منفصلة يتناول عدد من القضايا الاجتماعية حول التسامح والقدرة على المغفرة ومنح فرصة ثانية. In separate episodes, the series addresses a number of social issues pertaining to tolerance, forgiveness, and giving second chances.(n)</desc>
     <credits>
-      <director>فادي سليم</director>
-      <director>عمار تميم</director>
-      <actor>بسام كوسا</actor>
-      <actor>سلافة معمار</actor>
-      <actor>عبدالمنعم عمايري</actor>
-      <actor>صفاء سلطان</actor>
-      <actor>محمد الأحمد</actor>
-      <actor>سامر إسماعيل</actor>
-      <writer>غسان عقلة</writer>
-      <writer>بثينة عوض</writer>
+      <director>محمد جمعة</director>
+      <director>أحمد عيسى</director>
+      <actor>حسين المهدي</actor>
+      <actor>خالد أمين</actor>
+      <actor>أحمد عبدالرزاق</actor>
+      <actor>دانة آل سالم</actor>
+      <actor>شيماء سبت</actor>
+      <actor>عمر الملا</actor>
+      <writer>يوسف إبراهيم</writer>
+      <writer>مصطفى زايد</writer>
     </credits>
-    <date>2016</date>
+    <date>2020</date>
     <category lang="ar">تصنيف العمل</category>
     <category lang="ar">ﺩﺭاﻣﺎ</category>
     <rating system="EG">
-      <value>7.4</value>
+      <value>4.3</value>
     </rating>
   </programme>
   <programme start="20200516050000 -0400" stop="20200516060000 -0400" channel="أبو ظبي دراما">
@@ -7831,8 +8314,28 @@
       <value>5.8</value>
     </rating>
   </programme>
-  <programme start="20200516040000 -0400" stop="20200516050000 -0400" channel="National Geographic Abu Dhabi">
-    <title lang="ar">خاص : أشرس الكائنات في العالم</title>
+  <programme start="20200518150000 -0400" stop="20200518160000 -0400" channel="أبو ظبي دراما">
+    <title lang="ar">سيرة حب</title>
+    <desc lang="ar">يتناول العمل قصة الفتاة صاحبة الأصول المصرية اللبنانية (سيرين عبد النور ) ، التي تقع في حيرة بين حب رجلين مصريين ، يقوم بدوريهما (مكسيم خليل) ، و(خالد سليم) الذي يجسد دور مهندس كمبيوتر ، تنقلب حياته عندما يقع في غرامها ، ليتحول من شخص لا يشغله سوى علاقاته النسائية المتعددة إلى رجل يسعى للوصول لقلب هذه الفتاة فقط. ِA beautiful girl of Lebanese and Egyptian descent is torn between her love of two men. One of them, a long-time womanizer, has his life turned upside down upon meeting her, and becomes only attracted to her and seeking to win her heart.(n)</desc>
+    <credits>
+      <director>محمد جمال العدل</director>
+      <director>محمود زهران</director>
+      <actor>سيرين عبدالنور</actor>
+      <actor>مكسيم خليل</actor>
+      <actor>خالد سليم</actor>
+      <actor>هاني عادل</actor>
+      <actor>رشا مهدي</actor>
+      <actor>فرح</actor>
+      <writer>محمد رشاد العربي</writer>
+      <writer>عمرو الدالي</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺭﻭﻣﺎﻧﺴﻲ</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <rating system="EG">
+      <value>5.8</value>
+    </rating>
   </programme>
   <programme start="20200516050000 -0400" stop="20200516060000 -0400" channel="National Geographic Abu Dhabi">
     <title lang="ar">تحقيقات الكوارث الجوية</title>
