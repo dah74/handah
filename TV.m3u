@@ -3,10 +3,10 @@
 http://livecdnh3.tvanywhere.ae/hls/jadeed/index.m3u8?fluxustv.m3u8
 #EXTINF:0 0 tvg-id="mtv-rus" tvg-name="MTV Lebanon ARB" tvg-logo="https://i.imgur.com/qavKIQB.png" group-title="",MTV
 http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="LBC ARB" tvg-logo="https://i.imgur.com/PTOeIjz.png" group-title="",LBC
+#EXTINF:0 tvg-id="" tvg-name="LBC ARB" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/LBC.png" group-title="",LBC
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.instaleb.me/sites/default/files/field/image/lbci.jpg"  group-title="",LBCI
-#http://cms.accesss.me:25461/live/Cv1pEN6VH7/8351783285/39731.m3u8
+http://188.160.0.148:1935/5b2a414908b7162/_definst_/smil:myStream.smil/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="OTV Lebanon ARB" tvg-logo="https://i.imgur.com/BZAgw1G.png" group-title="",OTV
 http://youness-export.com/tv/otv
 #EXTINF:0 tvg-name="" tvg-logo="https://i.imgur.com/26aZW2I.png" group-title="",Abu Dhabi
