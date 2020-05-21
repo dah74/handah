@@ -24,7 +24,7 @@ http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8?fluxustv.m3
 #EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/W2ww2cv.png" group-title="",Nat Geo AD
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv
 #EXTINF:0 tvg-id="mbc.net.E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",MBC 1
-http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8?fluxustv.m3u8
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_2.m3u8
 #EXTINF:0 tvg-id="mbc.net.E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="",MBC 2
 https://shls-mbc2-prod.shahid.net/mbc2-prod_2.m3u8
 #EXTINF:0 tvg-id="mbc.net.E" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/MBC_4_logo.png" group-title="",MBC 4
