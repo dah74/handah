@@ -14,7 +14,7 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:0 tvg-name="" tvg-logo="https://i.imgur.com/YFnoPGU.png" group-title="",Abu Dhabi Drama
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/l2nopWc.png" group-title="",MBC Drama
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_2.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/f07QCXk.png" group-title="",AL Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Rusiya Al Yaum ARB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="",RT
