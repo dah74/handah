@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="NEW TV ARB" tvg-logo="https://i.imgur.com/lCFZbyR.png" group-title="",AL Jadeed
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/5401.ts
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/5401.m3u8
 #EXTINF:-1 tvg-id="mtv-rus" tvg-name="MTV Lebanon ARB" tvg-logo="https://i.imgur.com/qavKIQB.png" group-title="",MTV
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/5403.ts
 #EXTINF:-1 tvg-id="" tvg-name="LBC ARB" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/LBC.png" group-title="",LBC
