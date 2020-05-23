@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-id="" tvg-name="NEW TV ARB" tvg-logo="https://i.imgur.com/lCFZbyR.png" group-title="",AL Jadeed
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/5401.m3u8
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/5401.ts
 #EXTINF:0 0 tvg-id="mtv-rus" tvg-name="MTV Lebanon ARB" tvg-logo="https://i.imgur.com/qavKIQB.png" group-title="",MTV
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/5403.m3u8
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/5403.ts
 #EXTINF:0 tvg-id="" tvg-name="LBC ARB" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/LBC.png" group-title="",LBC
 http://46.60.1.82:8081/live5/LBC.SAT/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.instaleb.me/sites/default/files/field/image/lbci.jpg"  group-title="",LBCI
@@ -34,8 +34,8 @@ https://shls-mbcaction-prod.shahid.net/mbcaction-prod_2.m3u8
 #EXTINF:0 tvg-id="mbc.net.E" tvg-logo="https://i.imgur.com/X4iT4EU.png" group-title="",MBC Max
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_2.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Star Movies ARB" tvg-logo="http://upload.wikimedia.org/wikipedia/id/f/f1/Star_movies_hd.png" group-title="",Star Movies
-#http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2878.m3u8
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2878.ts
 #EXTINF:0 tvg-id="" tvg-name="Star World ARB" tvg-logo="https://i.imgur.com/HnS8paQ.png" group-title="",Star World
-#http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.ts
 #EXTINF:0 tvg-id="" tvg-name="Dubai One ARB" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="",Dubai One
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
