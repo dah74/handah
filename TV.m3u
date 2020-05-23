@@ -36,6 +36,6 @@ https://shls-mbcmax-prod.shahid.net/mbcmax-prod_2.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Star Movies ARB" tvg-logo="http://upload.wikimedia.org/wikipedia/id/f/f1/Star_movies_hd.png" group-title="",Star Movies
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2878.ts
 #EXTINF:0 tvg-id="" tvg-name="Star World ARB" tvg-logo="https://i.imgur.com/HnS8paQ.png" group-title="",Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.ts
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2879.ts
 #EXTINF:0 tvg-id="" tvg-name="Dubai One ARB" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="",Dubai One
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
