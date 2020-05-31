@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="NEW TV ARB" tvg-logo="https://i.imgur.com/lCFZbyR.png" group-title="",AL Jadeed
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/5401.ts
+#http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/5401.ts
 #EXTINF:-1 tvg-id="mtv-rus" tvg-name="MTV Lebanon ARB" tvg-logo="https://i.imgur.com/qavKIQB.png" group-title="",MTV
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/5403.ts
+#http://95.170.215.109/hls/MTV-Backup-M.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LBC ARB" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/LBC.png" group-title="",LBC
 http://46.60.1.82:8081/live5/LBC.SAT/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.instaleb.me/sites/default/files/field/image/lbci.jpg"  group-title="",LBCI
@@ -22,7 +22,7 @@ https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW Arabia ARB" tvg-logo="https://i.imgur.com/LGjZIWL.png" group-title="",DW
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/W2ww2cv.png" group-title="",Nat Geo AD
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv
+#https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv
 #EXTINF:-1 tvg-id="mbc.net.E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="",MBC 1
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_2.m3u8
 #EXTINF:-1 tvg-id="mbc.net.E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="",MBC 2
